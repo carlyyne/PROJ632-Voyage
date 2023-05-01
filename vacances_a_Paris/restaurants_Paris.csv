@@ -1,0 +1,768 @@
+name,address,cuisine,opening_hours,latitude,longitude
+Le Severo,Rue des Plantes 75014,french,"Mo-Fr 12:00-13:30, 19:30-21:30",48.8319911,2.3245334
+L'Encrier,Rue Traversière 75012,french,"Mo-Fr 12:00-14:30,19:00-22:30; Sa 19:00-22:30",48.8483622,2.3739893
+Au Petit Fer à Cheval,Rue Vieille du Temple 75004,regional,Mo-Su 09:00-02:00,48.8574347,2.3576107
+La Tour d'Argent,Quai de la Tournelle 75005,french,"Tu-Sa 12:00-13:15, 19:00-21:15",48.84983,2.3549148
+Ambiance De L'Inde,Rue Thouin 75005,indian,"12:00-15:00,18:30-24:00",48.8449407,2.3486924
+Metou,Rue Corneille 75006,asian,"Tu-Sa 11:30-15:00,19:00-22:30",48.8493501,2.3391528
+Hanoï Cà Phê,Boulevard des Italiens,vietnamese,Mo-Su 12:00-02:00,48.8714582,2.3357136
+Bouillon Chartier,Rue du Faubourg Montmartre 75009,french,Mo-Su 11:30-24:00,48.8719475,2.3430256
+Cannibale Café,Rue Jean-Pierre Timbaud 75011,regional;french,Mo-Su 07:30-02:00; Sa 09:00-02:00; Su 09:00-24:00,48.86841,2.3793255
+Justine,Rue Oberkampf 75011,french;pizza,Mo-Su 08:00-02:00,48.8656774,2.3778866
+Le Temps des Cerises,Rue de la Butte-aux-Cailles 75013,french,"Mo-Sa 11:45-14:30,19:00-23:30; Su off",48.8278771,2.3505246
+Papa yoyo,Rue de Gergovie 75014,regional,"Tu-Sa 12:00-02:00,18:00-22:30",48.8332286,2.315712
+Chez l'Ami Jean,Rue Malar 75007,french,"Tu-Sa 12:00-14:00,19:00-24:00",48.8604171,2.305956
+Chez Louis,Boulevard Saint-Denis 75010,french,Mo-Su 08:30-02:00,48.869405,2.3549341
+Chez Gladines,Rue des Cinq Diamants 75013,french,"Mo-Fr 12:00-15:00, 19:00-23:45; Sa, Su 12:00-16:00, 19:00-23:45",48.8288139,2.3506397
+Café Charlot,Rue de Bretagne 75003,french,Mo-Sa 09:00-01:00; Su 09:00-24:00,48.8630061,2.3625592
+Les Pipos,Rue de l'École Polytechnique 75005,french,Mo-Sa 09:00-01:00,48.8474511,2.348343
+Brasserie Wepler,Place de Clichy 75018,french,Mo-Su 08:30-00:30,48.8838613,2.3277184
+Le Bon Pêcheur,Rue Pierre Lescot 75001,breakfast;coffee_shop;hotdog;pizza,Mo-Su 08:00-00:00,48.8620045,2.3484135
+Le Bistrot des Oies,Rue Marie et Louise 75010,french,"Mo-Fr 12:00-14:30,19:00-23:00; Tu 12:00-14:30",48.8718909,2.3674589
+Kouchi Yaki,Rue Oberkampf 75011,japanese,"Mo-Sa 11:30-15:00,18:00-23:30; Su 18:00-23:30",48.866153,2.3798466
+Flam's,Rue des Lombards 75001,alsatian;flammkuchen,Su-Th 11:45-23:30; Fr-Sa 11:45-24:00,48.8598868,2.3476311
+Les Bombis,Rue Chaligny 75012,New-french,"Mo-Sa 12:00-15:00, 19:00-22:30",48.846715,2.3839386
+Les Délices du Colonel,Place du Colonel Bourgoin 75012,asian,"Mo-Su 10:30-16:00,16:30-22:00",48.8445906,2.3834045
+Siseng,Quai de Jemmapes 75010,asian,"Tu-Fr 12:00-15:00,19:00-22:30; Sa-Su 12:00-15:30,19:00-22:30",48.8722287,2.365131
+L'Aubergeade,Rue Chaligny 75012,french,"Tu-Su 19:00-22:00, We-Su 12:00-14:00",48.8466115,2.3835147
+Curry Villa,Rue Chaligny 75012,indian,"Mo-Su 12:00-14:00, 19:00-23:00",48.8464754,2.3834793
+Capone Nation,Avenue du Trône 75012,pizza;french,"Mo-Su 00:00-02:00,07:30-24:00",48.8477852,2.3980971
+Wako,Rue Raymond Losserand,japanese,"12:00-14:30,19:00-22:30",48.8330479,2.3162878
+L'Imprévu,Rue Didot,pizza,Mo-Su 08:00-02:00,48.8324508,2.3207231
+Royal Montgallet,Rue Riesener 75012,asian,"Tu-Su 12:00-02:30,19:00-22:30",48.8432256,2.3893039
+Chez Guan,Rue d'Aligre 75012,regional,Mo-Sa 11:30-15:00; 19:00-23:00,48.8493705,2.3782973
+Sardegna Tavola,Rue de Cotte 75012,sardinian;italian,"Tu-Sa 12:00-14:30, 19:30-22:45; Mo 12:00-14:30, 19:30-23:00",48.8482849,2.3767134
+I Quattro Mori,Rue Traversière 75012,italian,"Mo,We,Fr 08:00-19:00; Tu,Th 08:00-22:00; Sa 11:00-19:00; Su 11:00-16:00",48.8478582,2.3735429
+Chez Peppe,Rue Traversière 75012,italian,"Tu-Fr 09:30-14:30,16:30-19:45; Sa 09:30-19:45",48.8483311,2.3741932
+Ristorante Pellicano,Rue Traversière 75012,italian,"Mo-Fr 12:00-14:30, Mo-Sa 19:00-23:00, Sa 19:00-23:00",48.8471402,2.3725177
+Le Viaduc Café,Avenue Daumesnil 75012,french,Mo-Su 09:00-02:00,48.8475609,2.375248
+Paya Thaï Aligre,Rue d'Aligre 75012,thai,"Mo-Sa 12:00-14:30,19:00-23:30",48.8497475,2.3788828
+Le Duc de Richelieu,Rue Parrot 75012,french,Mo-Su 09:00-24:00,48.8469247,2.3730534
+Bistrot Paul Bert,Rue Paul Bert 75011,french,"Mo-Th 12:00-14:00,19:30-22:45; Fr,Sa 12:00-14:30,19:30-23:00",48.852223,2.3849242
+Les Funambules,Rue Faidherbe 75011,french,Mo-Su 08:00-01:00,48.8510651,2.3842956
+Caffé Vito,Rue des Archives 75004,italian,08:00-02:00,48.8576321,2.3546405
+Le Ju,Rue des Archives 75004,french,Mo-Su 07:00-02:00,48.8577293,2.3547383
+Crêperie Paris Breizh,Boulevard Vincent Auriol 75013,savory_pancakes;pancake;crepe,"Mo-Sa 12:00-14:30,19:00-22:30",48.8319327,2.35821
+Fleur D'Asie,Rue Planchat 75020,asian,"Mo-Fr 12:00-15:00,18:30-22:00",48.8517234,2.3993213
+Le Florissant,Rue Bézout 75014,asian,"12:00-14:30,19:00-22:30",48.8289244,2.3329403
+La Renaissance,Rue Championnet 75018,french,"Mo-Fr 08:00-24:00; Sa,Su 09:00-24:00",48.895866,2.3396928
+Chez Camille,Place d'Aligre 75012,burger,"Mo-We 09:00-13:30,17:00-00:00; Th-Fr 09:00-13:30,17:00-02:00; Sa-Su 09:00-13:30,16:30-02:00",48.8485516,2.3780692
+Restaurant Paul,Place Dauphine 75001,french,"Mo-Sa 12:00-14:00, 19:00-22:00",48.8563025,2.3422929
+Delhicious,Rue des Bourdonnais 75001,indian,Mo-Sa 11:00-22:00,48.8601397,2.3451638
+Au Chien qui Fume,Rue du Pont Neuf 75001,french,Su-Fr 08:00-00:00; Sa 08:00-01:00,48.8613541,2.3448441
+Loup,Rue du Louvre 75001,french,08:00-02:00,48.8639344,2.342597
+Nelson's,Rue Coquillière 75001,french,Mo-Su 08:00-00:00,48.8636804,2.343122
+Le Petit Bouillon Pharamond,Rue de la Grande Truanderie 75001,french,Mo-Su 12:00-24:00,48.8629978,2.3484965
+Sanukiya,Rue d'Argenteuil,japanese;udon,Mo-Su 11:30-22:30,48.8646927,2.3338041
+Liza,Rue de la Banque,mediterranean,Mo-Fr 00:00-24:00; Sa 19:00-22:30; Su 12:00-16:00,48.8675928,2.3409167
+Kuccini,Rue Saint-Denis 75002,italian,"Mo-Sa 12:00-12:45, 14:30-23:55",48.8652615,2.3503094
+Mamie,Boulevard de Bonne Nouvelle 75002,burger,Mo-Su 08:00-02:00,48.8703951,2.3484738
+Buffalo Grill,Place Blanche 75009,steak_house,"Mo-Fr 11:30-15:00, Mo-Th 18:00-23:00; Sa,Su 11:30-23:00",48.8834373,2.3324889
+Le Trésor,Rue du Trésor,french,Mo-Fr 12:00-01:00; Sa-Su 12:00-02:00,48.8570283,2.3577126
+Suave,Rue de la Providence 75013,vietnamese,"Mo-Sa 12:00-14:30,19:00-22:30",48.8260343,2.3476244
+Auberge de Venise,Rue de la Bastille 75004,italian,Mo-Su 11:30-23:30,48.8537619,2.3675235
+Vins des Pyrénées,Rue Beautreillis,french,"Tu, Sa 11:30-15:00, 19:00-22:30",48.8536926,2.3643754
+NordMarais,Rue Notre-Dame-de-Nazareth,french,Mo-Fr 09:00-02:00; Sa 17:00-02:00,48.867444,2.3577911
+Panda Belleville,Rue Louis Bonnet,vietnamese,Mo-Su 10:00-21:30,48.8714314,2.3768732
+Shiso Burger,Quai Saint-Michel 75005,burger;japanese,Mo-Su 12:00-23:00,48.8533952,2.3453142
+Robert et Louise,Rue Vieille du Temple,french,Tu-Sa 19:00-23:00;We-Sa 12:00-15:00;Su 12:00-23:00,48.8590844,2.3594957
+The Brooklyn Pizzeria,Boulevard Beaumarchais 75003,italian;mediterranean;pizza,Mo-Su 09:00-00:00,48.8559327,2.3681748
+Pause Bobun,Rue Buffon 75005,vietnamese,"Mo-Fr 11:30-21:00, Sa 12:00-15:00",48.8430308,2.363447
+Pramil,Rue du Vertbois,french,"Tu-Sa 12:00-14:30,19:30-22:30",48.8668208,2.3587112
+BREIZH Café - Odéon,Rue de l'Odéon 75006,french;regional,Mo-Th 12:00-22:30; Fr 12:00-23:00; Sa 11:00-23:00; Su 11:00-22:30,48.8516746,2.3388348
+Le Choupinet,Boulevard Saint-Michel 75006,french,Mo-Su 08:00-21:00,48.8477108,2.3407718
+Livio Più,Rue du Cherche-Midi 75006,italian,"Mo-Sa 11:45-14:00,18:30-22:00; PH open",48.8469097,2.3213077
+Le Greffulhe,Rue des Mathurins 75008,french,Mo-Fr 07:00-02:00; Sa-Su 11:00-02:00,48.8731505,2.3255205
+Triadou Haussmann,Boulevard Haussmann 75008,brasserie,Mo-Su 07:00-01:00,48.8741599,2.3254911
+Tabla Pizza,Rue de Clichy 75009,pizza;burger;italian_pizza,Su-Th 12:00-24:00; Fr 12:00-00:30; Sa 12:00-01:00,48.8832767,2.3277563
+Le Publisher,Rue de Constantinople 75008,irish,"Mo-Sa 11:00-14:00,18:00-24:00",48.8805205,2.3183206
+Stradina Trattoria,Rue de Lisbonne,italian,Mo-Fr 11:30-14:30; Mo-Th 19:00-22:00,48.8778079,2.31465
+Le Relais de l'Entrecôte,Rue Marbeuf 75008,french;steak_house,"Mo-Fr 12:00-14:30,18:45-23:00; Sa,Su 12:00-15:00,18:45-23:00",48.8681586,2.30278
+Le Chansonnier,Rue Eugène Varlin 75010,french,"PH,Mo-Su 08:00-02:00",48.8787523,2.3641791
+Le Phénicien,Rue Alexandre Parodi 75010,lebanese,Su-Th 11:00-22:00; Fr-Sa 11:00-22:55,48.8800819,2.3647141
+El Tequila Mexicana,Rue Eugène Carrière 75018,mexican,"Sa-Su 11:30-23:30; Tu-Fr 11:30-14:30, 18:00-23:30; Mo 18:00-23:30",48.8886685,2.3319948
+Kastoori,Place Gustave Toudouze 75009,indian,"Mo-Su 12:00-14:30,19:00-23:30",48.8796046,2.3374293
+Pomme de Pain,Rue Marie-Andrée Lagroua Weill-Hallé 75013,sandwich,Mo-Fr 08:00-18:00; Sa 08:00-14:00,48.8282504,2.3802903
+Fø Pizza,Rue Françoise Dolto 75013,pizza,"Mo-We 11:00-22:30; Th,Fr 11:00-23:00; Sa 18:30-23:00; Su 18:30-22:30",48.8283892,2.3805802
+L'Avenue,Avenue de France 75013,pizza,Mo-Fr 07:00-02:00; Sa-Su 09:00-02:00,48.8314453,2.3762846
+Restaurant Édessa,Rue Jacques Hillairet 75012,turkish,Mo-Sa 11:00-14:00,48.8434476,2.3895663
+Zaitoun (Léa Beyrouth),Rue du Faubourg Saint-Martin 75010,lebanese,Mo-Fr 12:00-14:00; Mo-Su 18:00-23:00,48.8827985,2.3675049
+L'Alouette,Rue du Champ de l'Alouette 75013,french,Mo-Su 08:00-23:45,48.8319714,2.344555
+La Sardine,Place Sainte-Marthe 75010,tapas;french,Mo-Su 09:00-02:00,48.8740661,2.3727507
+Bouchon de la Gare,Rue Émile Gilbert 75012,french,Mo-Fr 12:00-15:00; 19:00-21:00,48.8463681,2.3733407
+Uzu,Rue Falguière,japanese,"Mo-Su 12:00-14:30,18:30-23:00",48.8408995,2.3133856
+Oishii,Rue Louis Blanc 75010,japanese,"Mo-Sa 12:00-22:30, Su 18:45-22:30",48.8815607,2.3646012
+Le 14 Juillet,Rue Didot 75014,french,Mo-Su 12:00-23:00,48.8283684,2.3161973
+Yaai Thai,Rue Daguerre 75014,thai,"Mo-Su 12:30-14:30, 19:00-23:00",48.8341093,2.329426
+Chez Addy & Ida,Rue Jaucourt 75012,french,Mo-Fr 07:00-24:00; Sa 09:00-24:00,48.8464569,2.394626
+L'invitée,Rue Thénard 75005,french,"Tu-Sa 12:00-15:00, 19:00-23:00",48.8499899,2.3459219
+Le 41 Pasteur,Boulevard Pasteur 75015,french;bistro,"Tu-Su 12:00-14:00,19:00-22:00",48.8425813,2.3133329
+Seoul Mama,Rue Saint-Jacques 75005,korean,"Mo-Sa 12:00-14:30,19:00-22:30",48.8426523,2.3414798
+Pottoka,Rue de l'Exposition,french,"Mo-Su 12:00-14:30, 19:30-22:30",48.8581564,2.3025566
+Osteria Ferrara,Rue du Dahomey,italian,Mo-Fr 12:00-14:00; 19:30-22:00,48.8512398,2.3832978
+Le Ruisseau,Rue du Ruisseau 75018,burger,Mo-Su 12:00-23:00,48.8943819,2.3405045
+Kozy Kanope,Rue La Fayette 75009,cake;coffee_shop;french;juice;pancake;brunch,Mo-Fr 08:00-15:00; Sa-Su 09:30-16:00,48.8747844,2.3401877
+Perception,Rue Blanche 75009,korean,"Tu-Fr 12:15-14:00, 19:15-22:00; Sa 19:15-22:00",48.8812224,2.3314983
+Kohinoor,Rue Blanche 75009,indian,"Mo-Su 12:00-14:30, 18:30-23:30",48.8793764,2.3313489
+Piknik,Rue Lamartine 75009,asian,Mo-Fr 12:00-14:30,48.8764927,2.3415422
+Mi Ranchito Paisa,Rue de Montholon,latino,"Mo-Fr 12:00-14:30,19:00-23:30; Sa,Su 12:00-23:30",48.8765185,2.3448908
+Les Bariolés de Maud,Rue Buffault 75009,sandwich,"Mo-Fr 11:00-15:00; Sa,Su 10:00-16:00",48.8755706,2.3419536
+Sushi Bâ,Rue des Dames 75017,sushi,"Mo-Sa 11:30-14:30, 19:00-23:00; Su 19:00-23:00",48.8829944,2.3183461
+Al Taglio,Rue Neuve Popincourt,pizza,"Mo-Th,Su 12:00-23:00; Fr-Sa 12:00-24:00",48.8646865,2.3738115
+Sucrépice,Rue La Fayette 75009,chinese,Tu-Su 12:00-22:30,48.8745269,2.3383294
+Le Trumilou,Quai de l'Hôtel de Ville 75004,french,"Mo-Su 11:00-15:00,19:30-24:00",48.8549268,2.353965
+Grain de Riz,Rue Godefroy Cavaignac 75011,vietnamese,Mo-Sa 11:30-22:30,48.8570588,2.3798634
+Restaurant Émeraude,Rue Chanzy 75011,regional,Mo-Sa 11:00-14:00,48.8524031,2.3825246
+Sugoï Ramen,Rue des Boulets 75011,japanese,"Mo-Sa 12:00-14:30, 18:30-22:30",48.8510313,2.3899233
+Chez Papa,Boulevard de la Bastille 75012,french,Mo-Su 11:30-00:00,48.8506208,2.3689945
+Coriandre,Rue de l'Ouest 75014,indian,"Tu-Sa 12:00-15:00,19:00-23:00; Su 10:00-15:00,19:00-23:00",48.8342115,2.3157497
+Le Vent de Sable,Rue Mademoiselle,international,"Mo-Su 11:30-15:00, 19:00-00:00",48.8437006,2.2963141
+Hell’s Kitchen,Rue Claude Tillier 75012,burger,"Mo-Sa 11:30-15:00, 18:00-23:30",48.8483066,2.3881028
+Sushi Jidai,Rue Didot 75014,japanese,"Mo-Fr 12:00-15:00,19:00-22:30; Sa-Su 19:00-22:30",48.8283587,2.3158645
+L'Opéra Restaurant,Place Jacques Rouché 75009,french,Mo-Su 08:00-23:59,48.8720949,2.3323339
+L'Alchimiste,Rue de Charenton 75012,french,"Mo-Sa 11:30-14:30, 19:00-22:30; Su 11:30-15:00",48.8432368,2.385487
+Tin Tin,Rue Louis Bonnet 75011,vietnamese;chinese,Th-Tu 11:30-23:00,48.871319,2.3766034
+Bon,Rue de la Pompe 75116,asian;thai;brunch,"Su-Th 12:00-14:30, 19:30-22:45; Fr-Sa 12:00-14:30, 19:30-23:15",48.8601399,2.2750024
+Lao Siam,Rue de Belleville,thai,"We-Mo 19:00-23:00, Th-Mo 12:00-15:00",48.8731549,2.3809371
+Mieux,Rue Saint-Lazare 75009,french;bistro,"Mo-Sa 12:00-14:30,19:30-22:30",48.8766497,2.3368624
+HD Diner,Boulevard des Italiens 75002,american;fast_food;burger,Mo-Su 09:00-24:00,48.8710389,2.3356546
+Michi,Rue Sainte-Anne,sushi,"Tu-Sa 12:00-14:00, 19:00-22:00",48.8681903,2.3364995
+Le Louchébem,Rue Berger 75001,french,"Mo-Fr 12:00-14:30,19:00-23:30; Sa 12:00-23:30; Su off",48.8616443,2.3443874
+Anahuacalli,Rue des Bernardins 75005,mexico,"Mo-Sa 19:00-23:00; Su 12:30-14:30, 19:00-22:30",48.8499005,2.3504013
+Zen,Rue de l'Échelle,japanese,"Mo-Sa 12:00-14:30,19:00-22:30; PH closed",48.8640363,2.3346102
+Chamroeun Crimée,Rue Mathis 75019,asian,Th-Tu 10:30-22:30,48.890725,2.3763178
+Fuji Yama,Rue Mathis 75019,japanese,"Mo-Su 11:00-14:30,17:30-23:00",48.8907863,2.375994
+Panangkai,Rue Beccaria 75012,thai,Mo-Sa 11:30-15:30,48.8474638,2.3788831
+Les Carrières,Rue Simart 75018,french,Mo-Fr 08:00-02:00; Sa-Su 11:00-02:00,48.890672,2.3483393
+Patakrep,Rue Duhesme 75018,regional,Mo-Su 10:30-00:30,48.8945457,2.3441716
+La Timbale,Rue Versigny 75018,french;burger,Mo-Fr 07:00-02:00; Sa 09:00-02:00; Su 09:00-18:00,48.8944316,2.3452559
+La Chingada,Rue Versigny 75018,mexican,"Tu, We 19:00-22:30; Th-Sa 12:00-15:00, 19:00-22:30",48.894399,2.344772
+Big Buddha,Rue du Poteau 75018,thai,"Mo-Sa 12:00-15:00,18:30-23:00; Su18:30-23:00",48.8929488,2.343261
+Haifa,Rue du Poteau 75018,chinese,Mo-Sa 09:30-21:00,48.8928888,2.3433773
+La Piscine,Rue du Poteau 75018,french,Mo-Su 07:00-02:00,48.894851,2.340921
+Ippudo République,Place Jacques Bonsergent 75010,noodle,"Tu-Th 12:00-15:00, 18:00-22:00; Fr-Su 12:00-15:00, 18:00-22:30",48.871075,2.36123
+Shouk,Rue de Lancry 75010,mexican,"Tu-We, Fr 12:00-14:30, 19:30-23:00; Th 12:00-14:30, 23:00-23:00; Sa 12:00-15:00, 19:30-23:30; Su 12:00-15:00, 19:30-23:00; Mo, PH closed",48.8720713,2.362573
+HKOOK,Rue Jonquoy 75014,coréen,Du mardi au Dimanche 12:00–14:30 /19:00–22:30,48.8300641,2.3145322
+Golosino,Square Vermenouze 75005,italian,"Mo-Sa 11:30-14:30,18:00-22:30",48.8407873,2.3491103
+GRUPPOMIMO,Rue Legendre 75017,pizza;italian,"Mo-Su 12:00-14:30,19:00-23:30; Su 12:00-15:00,19:00-23:30",48.8862472,2.3175417
+Foyer de la Madeleine,Place de la Madeleine 75008,french,Mo-Fr 11:45-14:00,48.86996,2.3247486
+Bouillon Racine,Rue Racine 75006,french,Mo-Su 12:00-23:00,48.850152,2.3419436
+The Tibetan Kitchen,Rue Letort 75018,tibetan,"Mo-Sa 12:00-15:00, Mo-Sa 18:30-22:30, Su 12:00-15:00",48.8939174,2.3431529
+La canTine,Rue de Reuilly 75012,french,Mo-Fr 07:00-00:00; Sa 09:00-00:00; Su 09:00-18:00,48.8412056,2.3941921
+Babalou,Rue Lamarck 75018,italian,"Mo-Su 12:00-15:00,18:00-23:00",48.8863709,2.3442405
+Le Grand 8,Rue Lamarck 75018,french,"We-Fr 19:00-23:30; Sa 12:00-15:00,19:00-02:00, Su 12:00-15:00,19:00-02:00",48.8866183,2.3444051
+Le Cabanon de la Butte,Rue Lamarck 75018,french,"We-Su 12:00-14:30,18:30-22:30",48.8865304,2.344348
+Le Relais de la Butte,Rue Ravignan 75018,french,Mo-Su 08:00-01:00,48.885755,2.3381388
+Taj Mahal,Rue Humblot 75015,indian,Mo-Su 11:30-14:30; 18:30-23:30,48.8509119,2.2937166
+Le Galopin,Rue Sainte-Marthe 75010,french,"Tu 19:30-22:00; We-Sa 12:00-14:00,19:30-22:00; Su off; Mo off",48.8742693,2.3727378
+Bistrot Melac,Rue Léon Frot 75011,french,Tu-Sa 09:00-23:30; Su-Mo off; Aug off,48.8556147,2.3867624
+Des Crêpes et des Cailles,Rue de la Butte aux Cailles,crepe,"We-Mo 11:30-14:30,18:00-22:00",48.8276701,2.3500783
+Hao Hao,Avenue de Choisy 75013,chinese,"PH,Mo-Su 10:00-01:00",48.8212511,2.3634624
+Chez Papa,Rue de Clichy 75009,french,Mo-Sa 08:00-00:00,48.8812217,2.3283853
+Xi'an,Rue Lamartine,chinese,"Mo-Sa 11:45-14:45, 18:30-22:30",48.8766336,2.3408729
+Les Ondes,Avenue de Versailles 75016,french,Mo-Su 08:00-24:00,48.8512469,2.2779972
+Chez Papa,Rue Gassendi 75014,french,Mo-Su 09:00-01:00,48.835951,2.3274377
+Délices Bobun 23,Rue des Pyrénées 75020,vietnamese,"Mo-Sa 11:30-14:30,18:30-22:30; Su 18:30-22:30",48.8491856,2.4063562
+Le Patio,Cours de Vincennes 75020,italian,19:00-23:00,48.8480831,2.4040261
+Tawlet,Rue de la Fontaine au Roi,lebanese,"Mo-Sa 12:00-14:00,19:30-22:00; Su 12:00-14:00",48.8685479,2.3683248
+Le Coupe-Chou,Rue de Lanneau 75005,french,Mo-Su 19:00-22:45,48.8484873,2.3463043
+Vérona,Avenue Corentin Cariou 75019,pizza,"Mo-Su 12:00-15:30,19:00-22:30",48.8970881,2.3845721
+Sushi Gourmet,Rue de l'Assomption 75016,japanese,"Tu-Sa 12:00-14:30,19:00-22:30",48.8530064,2.2754461
+Mme Shawn,Rue des Récollets 75010,thai,"Mo-Su 12:00-15:00,19:30-23:00",48.8742246,2.3624151
+Popine,Boulevard de Ménilmontant 75020,pizza,"Mo-Th 09:00-15:00,19:00-23:00; Fr 09:00-15:00,19:00-24:00; Sa 12:00-24:00; Su 12:00-23:00",48.8654516,2.3850312
+Falafel Café,Rue Bernard de Clairvaux 75003,lebanese,Mo-Su 12:00-23:30,48.8624336,2.3522545
+La Pharmacie,Rue Jean-Pierre Timbaud,french,"Mo-Sa 12:00-14:30,19:30-23:00",48.8654002,2.3689428
+Le Plomb du Cantal,Rue du Maine 75014,french,Mo off,48.8405125,2.3235107
+Piccoli Cugini,Rue des Vinaigriers 75010,italian,"Mo-Su 12:00-15:00, 19:00-22:30",48.8732266,2.3622822
+Léon de Bruxelles,Boulevard du Montparnasse 75014,friture,Mo-Su 11:45-00:00,48.8429231,2.3260926
+Bassanti,Rue Larochelle 75014,indian,"18:30-23:30, Tu-Su 12:00-14:30",48.8393228,2.323877
+Cœur de Breizh,Rue des Lombards 75004,crepe,"Mo-Fr 12:00-14:30,19:00-23:00; Sa-Su 12:00-23:00",48.8595096,2.349137
+Restaurant Brigitte,Avenue de Villiers 75017,french,"Mo-Su 12:00-14:30, 20:00-22:30",48.8820348,2.3139529
+Le Petit Cambodge,Rue Alibert 75010,asian,Mo-Su 12:00-23:00,48.8716683,2.3681098
+Fukuyama,Rue de Reuilly 75012,japanese,"Mo-Fr 11:45-14:15,18:30-23:00; Sa,Su 11:45-14:45",48.8447255,2.3894688
+Chez Yong 鼎鼎香,Rue de la Colonie 75013,chinese,"Tu-Su 11:45-14:30,18:45-22:30",48.8238476,2.3506828
+Le Cornichon,Rue Gassendi 75014,french,"Mo-Fr 12:00-14:30, 19:00-22:30",48.8341785,2.3261353
+Le Monza,Rue de l'Amiral Mouchez 75013,pizza,"Mo-Sa 12:00-15:00,19:00-23:00; Su off",48.8211212,2.3425439
+Joayo,Rue d'Alésia 75014,barbecue;korean,"Mo-Su 12:00-14:30, 19:00-22:30",48.8268549,2.3382613
+Azhen pâtes,Rue d'Alésia 75014,chinese,"Mo-Sa 12:00-15:00,18:00-23:00",48.8279313,2.3307106
+Il Pinocchio,Avenue Gambetta 75020,italian;pizza,"Mo-Su 12:00-15:00,18:00-23:00",48.8675406,2.4005552
+Chez Papa,Rue de la Colonie 75013,french,"Tu-Su 12:00-15:00, 18:00-01:00",48.8248691,2.3468871
+Chez Papa,Avenue Gambetta 75020,french,Mo-Su 12:00-00:00,48.8655701,2.3988667
+Di-Choulie,Rue Primatice 75013,chinese,"Tu-Sa 11:30-14:30,18:30-22:30; Su 11:30-14:30; Mo off",48.8333523,2.3556788
+Roger la Grenouille,Rue des Grands Augustins 75006,french,"Mo-Su 19:00-23:00,Mo-Sa 12:00-14:00",48.8536438,2.3402017
+K-chimaek,Rue de Tolbiac 75013,korean,Tu-Su 11:30-22:00,48.8260381,2.3593245
+Chez Janny,Rue Beaunier 75014,asian,"18:00-22:30, Mo-Sa 11:00-15:00",48.8245547,2.3282843
+Street Point,Rue Beaunier 75014,burger;chicken;kebab;sandwich,11:00-00:00,48.8245871,2.3263627
+Les Petits Parisiens,Avenue Jean Moulin 75014,french,"Mo-Fr 12:00-14:00,19:00-22:30",48.8249015,2.320376
+Butte aux Thaï,Rue des Cinq Diamants,thai,"Tu-Su 12:00-14:30,19:00-22:30",48.8281338,2.3500786
+Ikko,Avenue Claude Vellefaux,japanese,"Mo-Su 12:00-15:00,19:00-23:00",48.8751593,2.3701002
+Crazy Noodles,Avenue de Choisy,noodle,"PH,Mo-Su 11:30-14:30,18:30-22:30",48.8300676,2.3566379
+Krishna Bhavan,Rue Galande 75005,indian,Mo-Su 11:30-23:00,48.8511454,2.3477993
+Bistroy… les Papilles,Rue Gay-Lussac 75005,french,Tu-Su 09:30-24:00,48.8446336,2.3417051
+Café de la Nouvelle Mairie,Rue des Fossés Saint-Jacques 75005,french,Mo-Fr 08:00-24:00,48.8454582,2.3447912
+Crêperie Le Petit Josselin,Rue du Montparnasse 75006,crepe;pancake,"Mo-Sa 12:00-15:00, 19:00-23:00; Su off",48.8419273,2.3255444
+Konvives,Rue de la Jonquière 75017,french,"Mo-Fr 12:00-14:00,19:00-23:00",48.894695,2.3193622
+Le Procope,Rue de l'Ancienne Comédie 75006,french,Th-Su 11:30-24:00,48.8530641,2.3387326
+Asian Touch,Rue Saint-Maur,marocco,"Tu-Fr 12:00-15:00, 18:30-22:30; Sa 12:00-15:00, 19:00-23:00; Su 10:30-15:00",48.8726847,2.3710038
+Le Quincy,Avenue Ledru-Rollin 75012,regional,"Mo-Sa 12:00-15:00,19:00-22:00",48.8470348,2.3700906
+À la frégate,Avenue Ledru-Rollin 75012,fish,"Mo-Fr 12:00-14:30,19:00-22:30",48.8471308,2.370266
+Les Petites Bulles,Rue Simart 75018,french,"Mo-We 11:00-13:30,17:00-20:30",48.8904978,2.3481826
+Le Bistrot de Lyon,Rue Michel Chasles 75012,french,Mo-Su 09:00-22:00,48.8466233,2.3740562
+Toritcho,Rue du Montparnasse 75014,japanese,"Tu-Sa 12:00-14:20, Tu-Su 19:00-22:20",48.8425193,2.3260648
+Flam's,Rue Saint-Lazare 75009,regional;alsatian;flammkuchen,"Mo-Fr 11:30-15:00, 18:30-23:00; Sa 11:45-00:00",48.8756169,2.3280376
+Douraku,Rue de Compiègne 75010,asian,"Mo-Su 18:30-22:00, Mo-Sa 11:30-15:30",48.8798133,2.3536832
+Le Cochon à l'Oreille,Rue Montmartre 75001,french,"Tu-Su 12:15-15:00,19:00-23:00",48.8644516,2.3451744
+Le Charolais,Rue de Cotte,regional,Mo-Sa 06:00-22:00,48.8493078,2.3774714
+Perchiana,Rue Mademoiselle 75015,persian,Mo-Su 10:00-23:00,48.843649,2.2939839
+Les Petites Canailles,Rue Amelot 75011,french,Mo-Su 08:00-02:00,48.8607123,2.3679772
+Crêperie de Cluny,Rue de la Harpe,french,Mo-Su 11:30-00:30,48.8521893,2.344248
+MONK La Taverne de Cluny,Rue de la Harpe 75005,french,"""10:00-02:00 every day, sunday 12:00-02:0/""",48.8515725,2.3438953
+La Petite Hostellerie,Rue de la Harpe,french,"Mo-Tu 9:00-15:00,19:00-23:00; Fr-Su 12:00-23:00",48.8520695,2.3444341
+Maison de Gyros,Rue de la Huchette 75005,greek,Mo-Su 11:00-02:00,48.8531557,2.3451809
+Chez Gladines,Boulevard Saint-Germain 75005,french,Mo-Th 12:00-23:00; Fr-Sa 12:00-23:45; Su 12:00-23:30,48.8497401,2.3508144
+Crêperie Génia,Rue de la Harpe,french,Tu-Su 11:30-23:30; Mo 11:30-22:00,48.8528059,2.3446917
+Marvely,Rue Crozatier 75012,brunch,Mo-Th 10:00-16:00; Sa-Su 09:00-17:00,48.8485041,2.3805544
+La Fille à Papa,Rue du Sergent Bauchat 75012,french;regional,"Mo off; Tu-Sa 07:30-14:30,18:45-22:00",48.8455609,2.3932951
+Sushi Q,Rue Cambronne 75015,sushi,"18:00-22:30, Mo-Fr 11:30-14:30",48.8454765,2.3021645
+Ji Bai He,Rue Olivier de Serres 75015,chinese,"12:00-15:00,18:00-22:30",48.8316957,2.2928554
+Pizza Chic,Rue de Mézières 75006,pizza,"12:30-14:30,18:00-21:00; Sa-Su 12:00-21:00",48.85019,2.3306996
+Kokonor,Rue Saint-Jacques 75005,asian,"Mo-Sa 12:00-15:00,19:00-23:00",48.8455219,2.342543
+Au Rendez-vous de la Marine,Quai de la Loire 75019,french,"Tu-Sa 12:00-14:00,19:30-22:30",48.8837279,2.3717518
+Papi Restaurant,Rue Richer 75009,pizza;pasta,"Mo-Tu,Sa 12:00-14:00,18:30-21:30",48.8741108,2.3436798
+Kimura,Rue Pernety,japanese,Tu-Sa 12:00-14:30,48.8337258,2.3186526
+Totuma,Rue Alexandre Dumas 75011,venezuelan,Tu-Su 11:30-23:00,48.8532271,2.3906633
+Churrasco Galo,Rue de Dunkerque 75009,portuguese,"Mo-Sa 11:30-15:30,18:00-23:30",48.881566,2.3478333
+Otakuni,Rue Bobillot 75013,japanese,"Mo-Sa 12:00-15:00,19:00-22:30",48.8303294,2.3543356
+Le Petit Prince de Paris,Rue de Lanneau 75005,french,Tu-Su 19:00-01:00,48.848483,2.3465489
+Crêperie Plougastel,Rue du Montparnasse 75014,crepe,12:00-24:00,48.8423637,2.3259492
+Les Pâtes Vivantes,Rue du Faubourg Montmartre,chinese,Mo-Fr 12:00-15:00; Sa-Su 12:00-15:30; Mo-Su 19:00-23:00,48.8747214,2.3415841
+Sushi Story,Place Jean-Michel Basquiat 75013,japanese,"Mo-Sa 11:45-14:45, 18:45-22:45; Su 18:45-22:45",48.8310938,2.3750078
+Italian Trattoria,Avenue de France 75013,italian,"Mo-Su 11:30-14:30, 18:30-22:30",48.8310107,2.3759336
+Restaurant César,Boulevard Diderot 75012,italian;pasta;pizza,"Mo-Sa 11:30-15:00, 19:00-23:00",48.8467561,2.3831369
+Le Rital,Boulevard de Reuilly 75012,italian,Mo-Su 11:01-23:00,48.8394891,2.3925048
+Hyogo Sushi,Boulevard de Reuilly 75012,sushi,"Mo-Sa 11:30-15:00, 18:30-23:00; Su 18:30-23:00",48.8394498,2.3920616
+L'Estrapade,Rue de l'Estrapade,french,"Tu-Sa 12:00-14:00,19:00-22:00",48.8446809,2.3466783
+La Belle Ronde,Rue Daguerre 75014,crepe,Mo-Su 12:00-23:30,48.8336698,2.3296041
+L'Ardoisier,Rue Abel 75012,coffee_shop,Mo-Fr 08:00-15:00,48.8481127,2.375689
+La Toscana,Boulevard Diderot 75012,italian,"Mo-Su 10:30-15:00,19:00-23:00",48.8469322,2.384713
+Dat Viet,Rue du Couédic 75014,asian,"12:00-14:30,19:00-22:30",48.8300253,2.3296185
+Itadakizen,Rue Pradier 75019,japanese,"Tu-Sa 12:00-15:00,18:00-21:00",48.8752934,2.3817467
+Café du Coin,Rue Camille Desmoulins 75011,french,"Mo-Fr 12:00-14:30,19:30-23:30",48.8590666,2.3810655
+Pivoines,Rue Esquirol 75013,vietnamese,"Mo-Sa 12:00-14:30, 19:00-22:30",48.8343386,2.3607778
+Cyril Lignac Chocolaterie,Rue Chanzy,french,Tu-Su 10:00-19:00,48.8528254,2.3852671
+Le Villaret,Rue Ternaux 75011,french,"Mo off; Tu-Th 12:00-13:45,19:00-21:30; Fr,Sa 12:00-13:45,19:00-22:00; Su off",48.8643547,2.3728587
+Les Marmites Volantes,Rue Armand Carrel 75019,french,Mo-Fr 12:00-14:15,48.8827997,2.3733397
+Coup de Tête,Rue de Belleville 75019,french;bistro,Tu-Sa 12:00-24:00,48.8746907,2.3868019
+Stéréo,Rue Notre-Dame-de-Lorette 75009,fine_dining;french,Tu-Su 18:00-02:00,48.8795328,2.3360493
+La Terrasse des Archives,Rue des Archives 75003,french,"Mo-Fr 07:30-02:00, Sa,Su,PH 08:30-02:00",48.8612688,2.3578488
+Ba Miên,Avenue de Choisy 75013,vietnamese,"Mo-Su 11:30-15:00, 18:30-23:00",48.8300192,2.3572538
+Biscotte,rue desnouettes,french,Tu-Sa 19:00-22:30,48.8361336,2.2911849
+Blend,Boulevard des Filles du Calvaire 75003,burger,Mo-Su 12:00-23:00,48.8612139,2.3669024
+L'Écumoir,Rue Saint-Sabin 75011,italian,Mo-Fr 08:00-23:00; Sa 16:00-23:00; Su 08:00-17:00,48.8595048,2.3686879
+Korus,Rue Amelot 75011,french,"We-Sa 12:00-14:00,We-SA 19:00-22:00, Su 19:00-22:00",48.8592341,2.3681415
+Venezia,Rue Corbineau 75012,pizza;italian,Mo-Sa 12:00-14:30; Su 19:00-22:30,48.8388964,2.381634
+Les Canailles Ménilmontant,Rue des Panoyaux 75020,french,"Mo-Fr 12:00-14:30, 19:00-22:30",48.866613,2.3853491
+El Arzé,Rue du Chemin Vert 75011,lebanese,Mo-Su 19:00-22:00,48.8611059,2.3814748
+Bien Ficelé,Boulevard Voltaire 75011,grill;rotisserie;bistro;brunch,Tu-Sa 12:00-14:00; 19:30-22:00; Su 11:45-14:00; 19:30-21:30,48.8623796,2.3727706
+Brasserie Martin,Rue Saint-Ambroise 75011,french,Su-Th 08:30-24:00; Fr-Sa 08:30-00:30,48.8626445,2.3786484
+Ïnouï,Boulevard Haussmann 75008,french,Su off,48.8744634,2.3207611
+Chez Gladines,Rue des Halles 75001,french,Mo-Th 12:00-23:30; Fr 12:00-00:00; Sa 11:00-00:00; Su 11:00-18:00,48.8599164,2.3463862
+Le Petit Commines,Rue Commines,french,Mo-Su 19:00-23:00,48.8620768,2.3662036
+Deux Fois Plus de Piment,Rue Saint-Sébastien 75011,asian;chinese,"Tu-Su 12:00-14:00, 18:30-22:30",48.8615669,2.3706624
+La fine Mousse Restaurant,Avenue Jean Aicard,french,Mo-Su 19:00-24:00,48.864743,2.3818722
+Petrelle,Rue Pétrelle 75009,french,Tu-Sa 20:00-22:00,48.8809048,2.3467209
+East Side Burgers,Boulevard Voltaire 75011,burger,"Tu-Fr 12:00-15:00,19:00-21:30; Sa 12:00-21:30; Su 12:00-17:30",48.8617676,2.3731078
+Les Pâtes Vivantes,Rue de Turbigo 75001,asian,"Mo-Su,PH 12:00-15:00,19:00-23:00",48.863555,2.3471565
+Savane & Mousson,Boulevard Richard-Lenoir 75011,japanese;asian;vietnamese;sushi;maghreb,LUNDI Fermé  Mardi – Samedi 12h00 – 14h30 19h00 – 22h30  Dimanche Fermé,48.8587754,2.3712093
+Ossek Garden,Rue Rampon 75011,korean,Tu-Su 12:00-22:30,48.8663514,2.3680672
+Chez Janou,Rue Roger Verlomme 75003,regional;french,"Mo-Su 12:00-15:00, 19:00-22:00",48.8567071,2.3672138
+Salōn Marais,Rue du Roi Doré 75003,middle_eastern,"Tu 19:15-23:00; We 19:15-23:00; Th 12:00-14:30,19:15-23:00; Fr 12:00-14:30,19:15-23:00; Sa 12:00-16:00,19:15-23:00; Su 12:00-16:00",48.8599776,2.3643195
+Aux Trois Violons,Rue Saint-Sébastien 75011,russian,Mo-Sa 20:00-02:00,48.8611118,2.3693564
+Baladna,Place Denfert-Rochereau 75014,lebanese,"Mo-Su 12:00-14:30, 19:00-23:00",48.833839,2.3310374
+La Cachette de Paris,Rue Marcadet 75018,french,We-Su 10:30-19:00,48.8912316,2.3385192
+Chez Papa,Rue du Pré Saint-Gervais 75019,french,Mo-Su 06:00-02:00,48.8763412,2.3928571
+Pierre Sang,Rue Oberkampf 75011,korean,"Mo-Su 12:00-15:00,19:00-23:00",48.8647,2.3723457
+Mam'Ayoka Pajol,Esplanade Nathalie Sarraute 75018,cambodgienne;african;maghreb;equatorienne;guadeloupéenne,Mo-Fr 09:00-16:00,48.8886005,2.3627172
+Neige d'Été,Rue de l'Amiral Roussin 75015,japanese;french,"Mo-Sa 12:30-13:30,19:30-21:00",48.8454117,2.2990085
+Cô My Cantine,Rue de Ménilmontant 75020,vietnamese,"Mo-Fr 12:00-15:00, 19:00-23:00; Sa-Su 12:00-23:00",48.8673616,2.3847367
+Mems,Rue de Marseille 75010,french,Mo-Su 10:00-23:45,48.8713901,2.3627406
+Korean Barbecue,Rue Delambre,korean,"Mo-Su 12:00-14:00,19:00-23:00",48.8416571,2.327078
+Chez Rita et Claudio,Rue du Mont Cenis 75018,italian;pizza,Mo-Su 11:00-22:30,48.8917251,2.344001
+Trattoria Di Sapri,Rue Ordener 75018,italian,"12:00-14:30,19:00-23:00",48.8925185,2.343363
+Mangerie,Rue de Jarente 75004,spanish,Mo-Sa 18:00-23:00,48.8556807,2.3628528
+Loufoque,Rue Galande 75005,burger;french;mediterranean,Mo-Th 17:00-00:00; Fr 17:00-01:00; Sa 12:00-01:00; Su 12:00-19:30,48.8516099,2.3469206
+Allard,Rue Saint-André des Arts 75006,french,"12:00-14:00,19:00-22:00",48.8533212,2.3410141
+Chez Germain,Rue Saint-André des Arts,crepe,12:00-23:30,48.8532968,2.3417575
+Tonkatsu-Tombo,Rue de l'Arrivée 75015,japanese,"Mo-Sa 12:00-14:30,19:00-22:30",48.8433344,2.3217293
+Kootchi,Rue du Cardinal Lemoine 75005,afghan,"Mo-Sa 12:00-14:30,19:00-22:30",48.8469658,2.3519512
+Stand'art,Boulevard de Ménilmontant 75020,french,Mo-Su 07:00-02:00,48.8652724,2.3852128
+Elysées Hong-Kong,Rue Michel-Ange 75016,chinese,"""tous les jours sauf mercredi (pas d'horaires affichés)""",48.8417746,2.2589201
+Chez Nenesse,Rue de Saintonge 75003,french,"Mo-Fr 12:00-14:30,20:30-22:30",48.8617292,2.362303
+Moulin de la Galette,Rue Lepic 75018,french,Mo-Su 12:00-23:00,48.8873512,2.3371414
+Les Mondes Bohèmes,Rue des Vignoles,french,Mo-Su 10:00-24:00,48.8538306,2.3993936
+Le Renouveau,Rue du Faubourg Saint-Martin 75010,brasserie,Mo-Fr 06:30-02:00; Sa-Su 07:00-02:00,48.8732283,2.3581935
+Sushirama,Rue du Faubourg Saint-Martin 75010,japanese;sushi,"Mo-Fr 12:00-15:00,18:30-23:00; Sa-Su 18:30-23:00",48.8732823,2.3579211
+Le Supercoin,Rue Boinod 75018,french,"Mo off, Tu-Th 17:00-23:30, Su 17:00-23:30, Tu-Th 12:00-14:00, Fr 12:00-14:00,17:00-01:30, Sa 17:00-01:30",48.893111,2.350562
+Loubnane,Rue Galande,lebanese,"Tu 19:00-22:30; We-Sa 12:00-14:30, 19:00-22:30",48.8512133,2.3476661
+Welwitsch,Rue du Chemin Vert 75011,mediterranean;portuguese,"Mo 12:00-15:00; Tu-Fr 12:00-15:00,19:00-22:00; We off; Sa 12:00-17:00",48.8608437,2.3800665
+Léon de Bruxelles,Rue Rambuteau 75001,friture,"Mo-Tu 11:30-15:00, 18:30-22:30; Fr 11:30-15:00, 18:30-23:00; Sa 11:30-00:00; Su 11:30-22:30",48.8627554,2.3470856
+Etsi,Eugène Carrière 75018,greek,Tu-Fr 18:00-01:00;Sa 12:00-01:00;Su 12:00-15:00,48.8903669,2.3329368
+Jour de Fête,Rue Caulaincourt 75018,french,Mo-Su 11:00-23:00; Tu off,48.8889248,2.3343299
+Café Contresort,Rue des Portes Blanches 75018,french,Tu-Sa 10:00-18:00,48.8915876,2.3506917
+Alluma,Rue Saint-Maur 75011,mediterranean,Tu-Fr 12:00-14:30; Sa 19:30-23:30,48.8681375,2.3750208
+Vale & Ale,Rue Geoffroy Marie 75009,italian,"Mo-Su 12:00-14:00, 19:30-22:00",48.8734527,2.3436472
+Social Square,Rue du Temple 75003,burger;poke;brunch,Mo-Su 08:00-02:00,48.8648297,2.3595957
+Jones,Rue Godefroy Cavaignac 75011,french,Mo-Su 19:00-01:00,48.8566547,2.380071
+Curry Street,Rue Traversière 75012,indian,"Mo-Sa 11:30-14:30, Mo-Sa 18:00-21:00",48.8485977,2.3744032
+Cuisine d'ici et du Japon,Rue Sorbier 75020,french;japanese,Mo-Su 12:00-22:00,48.8680345,2.3899548
+Sodam,Rue de Gergovie 75014,korean,"Tu-Su 12:00-14:30, 19:00-22:30, Mo closed",48.8332821,2.3158571
+Elgi,Rue Saint-Martin 75003,pokebowl,Mo-Fr 08:30-15:00,48.8677169,2.3546846
+El Juanchito,Rue de la Folie Regnault 75001,colombian,"Tu-Fr 12:00-15:00,18:00-24:00; Sa-Su 12:00-24:00",48.8620047,2.3852499
+Sangeet,Rue de la Glacière 75013,indian;nepalese;asian;middle_eastern,"Mo-Sa 12:00-14:30, 18:30-23:00",48.8320253,2.3443178
+La Gentilhommière,Place Saint-André des Arts 75006,italian;french;bavarian,Mo-Su 08:00-01:00,48.85322,2.3426923
+Au Beurre Salé,Avenue Ledru-Rollin 75012,crepe,Tu-Sa 12:00-22:30,48.8485317,2.3720297
+Pierre Sang on Gambey,Rue Oberkampf 75011,korean,"Mo-Su 12:00-15:00,19:00-23:00",48.8649433,2.3721825
+Cheesers,Rue Yves Toudic 75010,sandwich,Mo-Fr 11:45-22:30,48.8693251,2.3640707
+Enclos de La Croix,Boulevard Exelmans,french,"Mo-Fr 12:00-14:00,19:00-22:00",48.840723,2.2660512
+Kakdougui,Rue du Couédic 75014,korean,"Tu-Su 12:00-14:30, 19:00-22:30",48.8300357,2.3298105
+Côme Pyramides,Rue des Pyramides 75001,bowl;pita,Mo-Fr 10:00-15:15,48.8649211,2.3332049
+Oxymore,Rue Saint-Maur 75011,french;pizza,"Mo-Fr 12:00-15:00, Sa,Su 12:00-16:00, Su-Th 19:00-23:00, Fr,Sa 19:00-23:30",48.8631786,2.3793559
+L'Horloge,Rue Servan 75011,pizza;burger,Mo-Sa 07:00-22:00,48.8637889,2.3810867
+El Camino,Rue Guillaume Bertrand 75011,latin_american,Tu-Sa 19:00-23:00,48.8635931,2.3806295
+Cavalino,Avenue Daumesnil 75012,pizza;vegetarian,"Mo 11:30-15:00 off; Tu-Fr 11:30-15:00, 19:00-23:00; Sa 11:30-23:00",48.8432866,2.383266
+French Eyes,Place Jean-Michel Basquiat 75013,french,Mo-Sa 10:00-00:00,48.8311618,2.375193
+Chez Yu,Rue de Belleville 75020,vietnamese,"Tu-Th 11:30-15:30,18:00-22:00; Fr-Su 11:30-22:00",48.8729309,2.380691
+L'Artisan du Burger,Rue Rambuteau 75001,burger,"Su-Th 10:30-22:30; Fr,Sa 10:30-23:30",48.8625088,2.3482422
+Makido,Avenue Jean Jaurès 75019,sushi,Tu-Th 12:00-24:00; Fr 12:00-00:30; Su 15:00-24:00; PH 14:00-24:00,48.8877677,2.3898112
+Barracao,Rue Oberkampf,brazilian,Tu-Su 17:00-02:00,48.8659051,2.3787988
+Le Gavroche,Rue Saint-Marc 75002,french,Mo-Sa 07:00-01:00,48.8704052,2.3401387
+Can Alegria,Rue Jean-Baptiste Pigalle 75009,french,Mo-Sa 19:00-01:00,48.8818216,2.3368647
+À mi-chemin,Rue Boulard 75014,oriental;french,"We-Sa 12:00-15:00, 19:00-00:00",48.8331284,2.3284658
+Mandoobar,Rue d'Édimbourg,korean,Mo-Fr 12:00-15:00; Mo-Fr 19:00-23:00,48.8794,2.32109
+À La Biche Au Bois,Avenue Ledru-Rollin,french,"Mo-Sa 12:00-14:00,19:00-23:00",48.8480071,2.3710801
+La Petite Chaise,Rue de Grenelle 75007,french,"Mo-Su 12:00-14:00, 19:00-23:00",48.8538669,2.3274765
+Ménélik,Rue Sauffroy 75017,ethiopian,"Mo-Su 12:00-16:00,18:00-02:00",48.8906944,2.3205117
+Fraulino,Rue Montgallet 75012,italian,"Tu-Fr 12:00-14:30,19:00-22:30; Mo,Sa 19:00-22:30",48.84384,2.3882657
+La Cerise sur la Pizza,Rue Jean-Pierre Timbaud,pizza,"Mo-Su 12:00-14:30,19:00-22:30",48.867761,2.3780632
+Le Bistro Viet,Boulevard Masséna 75013,vietnamese,"Mo-Su 12:00-15:00, Mo-Su 18:30-22:30, Tu closed",48.8235802,2.3717019
+Mamie,Rue du Faubourg Saint-Denis 75010,burger,Mo-Su 08:00-02:00,48.8729579,2.3543441
+East Mamma,Rue du Faubourg Saint-Antoine 75011,italian;pasta;pizza,"Mo-We 12:00-14:30, 18:45-22:45; Th-Fr 12:00-14:30, 18:45-23:00; Sa 12:00-15:30, 22:45-23:00; Su 12:00-15:30, 18:45-22:45",48.8510162,2.3777506
+Kodawari Ramen (Yokochō),Rue Mazarine 75006,japanese;ramen,Mo-Su 11:45-23:00,48.8546284,2.3381142
+Chez Van,Boulevard Saint-Marcel,asian,"Mo-Su 12:00-14:00, 19:00-22:00",48.8373851,2.354443
+Ippudo Saint-Germain,Rue Grégoire de Tours 75006,japanese,"Tu-Th 12:00-15:00, 18:00-22:00; Fr 12:00-15:00, 18:00-23:00; Sa 12:00-23:00; Su 12:00-22:30",48.85317,2.3377566
+Le Château de l'Ouest,Rue du Château,french,"Mo-Fr 12:00-14:30,19:00-22:30; Sa 19:00-22:30",48.8362418,2.3190956
+Thai Panthong,Rue de l'Ouest,thai,"Mo-Sa 12:00-14:30, 19:00-22:30",48.8364802,2.3203215
+BonJour,Rue Raymond Losserand 75014,asian,Mo-Su 11:00-22:00,48.8316049,2.3139895
+La Vera Pizza Napoletana - Guillaume grasso,Rue Brancion 75015,italian,"Mo-Sa 12:00-14:30, 19:00-22:30",48.8336607,2.3043754
+Dionysos,Rue des Petits Carreaux 75002,greek,Mo-Sa 11:00-21:00,48.8669123,2.347385
+Sumibi Kaz,Rue de Montyon 75009,japanese,"Tu-Sa 12:00-14:30,19:00-22:30; Su 19:00-22:30",48.8730386,2.3441219
+Noynoy,Rue Léon Frot 75011,thai,Mo-Su 12:00-14:30; 19:30-22:30,48.8550007,2.3871155
+L'échoppe de Paris,Rue Léon Frot 75011,burger,Mo-Su 12:00-23:00,48.8539961,2.3879812
+Banemi,Rue du Faubourg Poissonnière 75010,vietnamese,Mo-Su 11:45-22:00,48.8759079,2.3483917
+Chez Joy,Rue Daguerre 75014,thai,"Mo-Fr 11:30-15:00,18:00-22:00; Sa 11:30-17:00",48.8358145,2.3248148
+L'Esprit Tchaï,Rue Oberkampf 75011,indian;thai,Mo-Fr 09:00-19:30; Sa 10:00-19:30,48.8660372,2.3786313
+Fichon,Rue Marcadet 75018,seafood;fish,"Tu-Sa 12:30-14:15,19:30-22:30",48.890949,2.3450954
+Bekseju Village,Boulevard Saint-Marcel 75013,korean,"Mo-Fr 12:00-14:00, 19:00-22:30, Sa-Su 12:00-14:30, 19:00-22:30",48.8377563,2.3555937
+Mamie,Rue du Faubourg Montmartre 75009,burger,"Mo-Su 08:00-15:00, 18:00-02:00",48.8730448,2.3429219
+Blueberry,Rue du Sabot,sushi,"Tu-Sa 12:00-14:30,19:00-22:30",48.8527567,2.3314219
+La Tables des Anges,Rue des Martyrs 75009,french,"12:00-14:00,19:00-22:00; Sa 12:00-14:00,19:00-22:30; Su-Mo off",48.8810846,2.340214
+Pizza Rossi,Rue Blondel 75002,italian;pasta;pizza,"Mo 11:45-14:30; Tu-Fr 11:45-14:30, 19:00-22:30; Sa 19:00-22:30",48.8688756,2.3530217
+Le Comptoir du Houmous,Rue Bobillot,lebanese,Mo-Sa 12:00-22:00,48.8299152,2.354007
+Chez Papa,Boulevard du Montparnasse 75014,french,Mo-Su 08:00-23:30,48.8408746,2.3323597
+Montée,Rue Léopold Robert 75014,french,"Tu-Sa 12:00-14:00,19:30-21:30 ""by appointment""",48.8407951,2.3306986
+Richer,Rue Richer,french,Mo-Su 08:00-01:00,48.8741138,2.3477501
+Dindon Dandy,Rue de Paradis 75010,french,"Mo,Tu 18:00-24:00; We-Sa 00:00-02:00,18:00-24:00; Su 00:00-02:00",48.874555,2.3548252
+Casa Botticelli,Boulevard de Charonne 75020,italian,"Mo-Fr 11:00-14:15,19:00-23:00, Sa,Su,PH 11:00-14:30,19:00-23:00",48.8561829,2.3950942
+Wunderbär,Rue Beaurepaire 75010,german,Tu-We 12:00-23:00; Fr-Sa 12:00-00:00; Su 12:00-19:00,48.8702965,2.3639599
+Hardware Société,Rue Lamarck 75018,french;spanish,"Mo-Fr 09:30-16:00; Sa, Su 09:30-16:30",48.8868808,2.3445853
+Janine,Rue des Dames 75017,french,"Mo-Fr 12:15-14:30,19:30-23:00",48.8830189,2.3180008
+Chez Foucher Mère & Fille,Rue Madeleine Rebérioux 75018,local,Mo-Fr 09:00-17:00,48.8946292,2.3530932
+Bonjour Viêt Nam,Rue Thouin 75005,vietnamese,"We-Mo 12:00-15:00,19:00-23:00",48.8451499,2.3494476
+L'Argument,Rue de la Convention 75015,french,Mo-Su 07:00-00:00,48.8407136,2.2891403
+Les délices d'Aphrodite,Rue de Candolle 75005,greek,"Mo-Su 12:00-14:15,19:00-23:00",48.8401766,2.3510816
+Burg'Heure,Rue Léon Séché 75015,burger,"Tu-Sa 12:00-15:00,19:00-23:00; Su 19:00-23:00",48.8419007,2.2984714
+Le Petit Pontoise,Rue de Pontoise 75005,french,"Mo-Su 12:00-14:30, 18:30-22:30",48.8498708,2.3520805
+La Poule au Pot,Rue Vauvilliers 75001,french,Tu-Su 19:00-05:00,48.8617832,2.3433043
+À la Châtaigne,Rue de Miromesnil,corsican,"Mo-Fr 12:00-14:00, 19:30-22:30; Sa-Su 19:30-22:30",48.8727734,2.3161143
+Makan Makan,Rue Richer 75009,indonesian,"Mo-Fr 12:00-14:30, 18:30-22:00; Sa 12:00-15:00",48.8741173,2.3458145
+Cantine Sicilienne,Rue Orfila 75020,italian;pizza,"Mo-Sa 12:00-14:30,19:30-22:30",48.8670053,2.3976788
+La Cantine de Quentin,Rue Bichat 75010,french,Mo-Fr 11:30-14:30,48.874027,2.3640512
+Matsuri,Rue du Bac 75007,japanese,"Mo-Su 12:00-15:00,19:00-23:00",48.8554299,2.3249135
+Pratolina,Boulevard de Bonne Nouvelle 75002,italian,"Mo-Th 12:00-14:30, 19:00-22:30; Fr-Sa 12:00-23:00; Su 12:00-22:30",48.8699377,2.3505554
+L'Esprit de Famille,Boulevard Morland,french,"08:00-15:30,18:00-21:00",48.848858,2.3647633
+La Lasagneria,Rue du Faubourg Saint-Martin 75010,italian,"Mo-Sa 12:00-14:30, 19:00-23:00",48.8724529,2.3574254
+Fratellini Caffè,Passage Susan Sontag 75019,italian,"Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-23:30",48.8982347,2.375087
+Ismaïl,Avenue Trudaine 75009,lebanese;indian;fusion,"Tu-Su 11:30-15:00,18:30-23:00",48.8816634,2.3459741
+Breizh Café - Montorgueil,Rue des Petits Carreaux 75002,crepe,12:00-22:30; Fr-Sa 12:00-23:00,48.866804,2.347365
+Coin-Op Table,Rue de Maubeuge 75009,burger;coffee_shop;french,"We-Sa 12:00-23:00, Tu 12:00-15:00, Su 12:00-17:00",48.8777223,2.3434569
+Il Giramondo,Rue de Grenelle,italian,Tu-Sa 09:00-22:30,48.8571775,2.304707
+Chez Toinette,Rue Germain Pilon 75018,french,Mo-Sa 19:00-22:30,48.8841446,2.3369224
+Armelle et Henri,Rue Audran 75018,caribbean,Mo-Sa 19:00-23:00,48.8850748,2.3357857
+L'Échappée,Rue Boyer 75020,thai,"Mo-Su 12:00-14:30, 19:00-22:30",48.8690053,2.3921336
+Massawa,Rue du Château Landon 75010,ethiopian,Tu-Su 12:00-23:00,48.8814414,2.362991
+Le Baromètre,Rue Lechapelais 75017,african,Mo-Su 18:00-01:30,48.8858681,2.3254837
+Fakra,Rue du Faubourg Saint-Antoine 75011,lebanese,"""7/7 + PH""",48.8488944,2.3936068
+Popolare,Rue Réaumur 75002,pizza,"Mo-Fr 11:45-14:15, 18:30-22:30; Sa 12:00-15:15, 18:30-22:45; Su 12:00-15:15, 18:30-22:30",48.8680921,2.3433017
+Les Passagers de Beyrouth,Passage de la Bonne Graine 75011,lebanese,"Tu-Th 12:00-14:00,19:00-22:00; Fr-Sa 12:00-14:00,19:00-22:30",48.8522629,2.3772258
+Do et Riz,Rue de Cotte 75012,vietnamese,Mo-Sa 12:00-14:30; 19:00-22:30,48.850365,2.3782194
+Le Bar à sushi Izumi,Boulevard des Batignolles 75008,sushi;japanese,"Tu-Sa 12:00-14:00,19:30-22:00",48.8814468,2.3183175
+Le Dumas,Avenue de Villiers 75017,french,Mo-Fr 07:00-24:00; Sa-Su 09:00-24:00,48.8824363,2.3120582
+Au Loup,Rue Bergère 75009,italian;french;wine,Tu-Sa 18:00-01:00,48.8724048,2.3446128
+Le Café de Raphaëlle,Rue de la Terrasse 75017,breakfast;coffee_shop;french,Mo-Su 08:00-23:30,48.8824064,2.3141431
+Ikken,Rue de la Chaise,japanese,"Mo-Sa 11:30-14:30,18:30-22:15",48.8530621,2.3270216
+Mama No Bento,Rue Poissonnière 75002,japanese,"Mo-Fr 11:30-20:00, Sa 11:30-15:00; PH off",48.8698474,2.3479331
+Le Papacionu,Rue Cadet 75009,pizza,"Mo-Sa 12:00-14:30,19:00-23:30",48.8747685,2.3427513
+Domaine d’Olléac,Rue Rousselet,regional;french,"Mo-Su 12:00-15:00,19:30-23:00",48.848636,2.3184524
+Kunitoraya - Restaurant,Rue Villedo 75001,japanese,Mo-Sa 19:30-20:00,48.8661805,2.3362674
+Biglove,Rue Debelleyme 75003,italian,Mo-Su 08:00-23:00,48.8620277,2.3635857
+Cucina Mutualité,Rue Saint-Victor,italian,"12:00-14:00,19:00-22:00",48.8485823,2.3507881
+Valentino,Rue du Bouloi 75001,italian,"Mo 12:00-14:30; Tu-Sa 12:00-14:30, 19:00-22:30",48.8639729,2.3416989
+Higuma,Boulevard des Italiens 75002,japanese,Mo-Su 11:30-22:00,48.8709807,2.3353503
+Gallika,Rue de Châteaudun 75009,greek,Mo-Fr 11:30-14:30,48.8760016,2.336314
+Le Basilic,Rue Casimir Périer 75007,french,"Mo-Su 12:00-14:30, 19:00-23:00",48.8576603,2.3189404
+Au 35,Rue Jacob 75006,french,"Mo-Su 12:00-14:45,18:30-23:00",48.8557026,2.3331488
+Gros Bao,Quai de Jemmapes 75010,chinese,"Mo-Fr 12:00-15:00,19:00-23:00; Sa-Su 12:00-23:00",48.8714907,2.3657042
+Les Parisiens,Rue du Pré aux Clercs 75007,french,Tu-Sa 12:00-23:00,48.8567007,2.3304091
+Les Climats,Rue de Lille 75007,french,"Tu-Sa 12:15-14:30, 19:00-22:00",48.85884,2.3282817
+Le Phenix,Rue de Campo Formio 75013,chinese,"18:30-22:30, Mo-Sa 11:00-14:30",48.8351662,2.3589158
+Soju Bar,Rue Mazarine,korean,"Mo-Sa 12:00-15:00, 18:45-21:00",48.8544243,2.3380036
+Robert,Rue de la Fontaine au Roi,french,"Mo,Su off; Tu-Sa 19:00-22:30",48.8681454,2.3717299
+Oishi,Avenue Parmentier,japanese,"Mo-Sa 11:30-15:00,18:30-23:00; Su 18:30-23:00",48.8678565,2.3728477
+Les Fondus de la Raclette,Avenue Parmentier 75011,regional;french,"Mo-Th,Su 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00",48.8674268,2.3727183
+L'Affineur' Affiné,Rue Notre-Dame-de-Lorette 75009,french,"We-Sa 12:00-14:00, 17:30-20:30; Su 11:30-14:00, 17:00-18:30",48.8798456,2.3355518
+Restaurant David Toutain,Rue Surcouf 75007,fine_dining,"Tu-Fr 12:00-14:30, 20:00-22:00; Mo 12:30-14:30, 20:00-22:00",48.8602539,2.3097147
+Panda's Bao Bao,Rue Notre-Dame-de-Nazareth 75003,chinese,"Mo,Tu,Th,Fr 12:00-15:00, 18:30-22:00; Sa 12:00-22:00; Su 18:30-21:30",48.8671796,2.3607671
+Les Apôtres de Pigalle,Rue Germain Pilon 75018,tapas,Tu-Sa 18:30-23:00,48.8830784,2.3363837
+Séoul,Rue Didot 75014,korean,"12:00-15:00,18:30-23:00",48.8294677,2.3175446
+Le Grand Bol 海碗居,Rue de la Présentation 75011,chinese,"Mo-Sa 12:00-15:00,18:30-23:00; Su 12:00-23:00",48.870912,2.3768754
+Le Chateaubriand,Avenue Parmentier,french,Tu-Fr 12:00-14:00; Tu-Sa 20:00-23:30,48.8693116,2.3713458
+Tokko,Avenue Parmentier,japanese,"Mo-Sa 12:00-14:50, 19:00-22:50; Su 19:00-22:45",48.8696269,2.3711043
+Marwa,Rue de Dantzig,lebanese,11:00-23:00,48.8305474,2.2962801
+Tripletta,Impasse de la Gaîté 75014,pizza,11:30-22:45; Mo-Fr 14:45-18:30 closed,48.8405422,2.3247303
+L'Artisan Libanais,Rue de Belleville 75019,lebanese,Mo-Sa 12:00-23:00; Su 12:00-22:00,48.873779,2.3846324
+Gourmandise Duhesme,Rue Duhesme 75018,chinese;japanese,Mo-Su 11:00-23:00,48.8933306,2.3424736
+Mais Oui Madame,Boulevard de Ménilmontant 75020,french;tapas,Mo-Su 09:00-23:00,48.8651484,2.3853445
+Brasileirinho,Rue Legendre 75017,brazilian,"Tu-Su 12:00-14:00,19:00-22:30",48.8898595,2.3235498
+Mersea,Rue du Faubourg Montmartre 75009,seafood,Mo-Su 11:30-23:00,48.872018,2.3433068
+Le Safari,Rue du Ruisseau 75018,indian,"Mo-Su 12:00-14:30, 19:00-23:30",48.8933746,2.3404054
+Itinéraires,Rue de Pontoise 75005,french,"Tu-Su 12:00-14:30,20:00-22:30; Sa 20:00-23:30",48.8501382,2.352287
+Delfino,Rue de Campo Formio 75013,italian,"Mo-Sa 12:00-14:30, 19:00-22:30",48.8337973,2.3606979
+Lémoni Café - Trinité,Rue de Clichy 75009,fusion,Mo-Fr 12:00-15:00,48.8768513,2.3307033
+La Parade,Rue des Goncourt 75011,french;tapas,Mo-Sa 18:00-02:00,48.8690416,2.3726898
+Djawa,Quai de Valmy 75010,asian,"Mo-Fr 12:00-14:30,19:00-22:30; Sa-Su 12:00-22:30",48.8801835,2.3670317
+Giraudet Boutique,Rue Mabillon 75006,french,"Mo 14:00-19:00,Tu-Sa 10:00-19:30",48.8517461,2.335191
+La Grande Cremerie,Rue Grégoire de Tours 75006,french,"Tu-Sa 12:00-14:00,Tu-Sa 19:30-23:00",48.853416,2.3378524
+Casa Bini,Rue Grégoire de Tours 75006,italian,"Mo-Su 12:30-14:30,Mo-Su 19:30-23:00",48.8522521,2.3374871
+Le Cherche Midi,Rue du Cherche-Midi 75006,italian,"Mo-Su 12:00-15:00,Mo-Su 19:30-23:15",48.8506782,2.3280065
+Marsan,Rue d'Assas 75006,french,"Tu-Su 12:30-14:30,Tu-Su 19:30-22:30",48.8500436,2.3278425
+Shin Jung,Rue Clapeyron 75008,korean,"Mo-Sa 12:00-14:30, 19:00-22:30; Su 19:00-22:30",48.8813248,2.3241036
+Flam's,Boulevard Montmartre 75002,alsatian;flammkuchen,"Mo 11:45-15:00; Tu-Fr 11:45-15:00,18:30-23:00; Sa 11:45-24:00; Su 12:00-21:30",48.8715019,2.3418819
+L'Ecailler du Bistrot,Rue Paul Bert 75011,fish,"Tu-Sa 12:00-14:30,19:30-23:00",48.852433,2.38499
+Meilleur Coco Thaï,Boulevard Voltaire 75011,thai,"Mo-Sa 12:00-15:00, 19:00-22:00",48.8567977,2.3814249
+La Brasserie Thai,Rue Poulbot 75018,thai,Mo-Su 11:00-22:30,48.8867955,2.3398018
+Chez Hugo,Rue Monge 75005,gastromique;asian;french,"Mo-Sa 12:30-14:00,19:00-23:00",48.8451303,2.3520029
+Planet Sushi Paris Monge,Rue Monge 75005,sushi;asian;japanese,"Mo-Fr 11:30-14:30,18:30-22:00; Sa,Su 11:30-22:00",48.8397745,2.3514915
+Au Fil des Saisons,Rue des Fontaines du Temple 75003,french,Mo-Fr 11:30-15:30; Tu-Sa 18:30-00:30,48.865616,2.359547
+Maythai,Avenue de la République 75011,thai,"Tu-Th 12:00-14:45,19:00-22:45; Fr 12:00-14:45,19:00-23:00; Sa,Su 12:00-15:00,19:00-22:45",48.8657148,2.3712517
+Le Relais Gascon,Rue des Abbesses 75018,french;mediterranean,Mo-Su 10:30-02:00,48.884004,2.3391711
+Au Poulet Braisé,Rue Étienne Dolet 75020,chicken,Su-Th 11:30-23:00; Fr-Sa 11:30-00:00,48.8674993,2.3834888
+Café Loyal,Rue d'Amsterdam 75009,local,Mo-Fr 08:00-16:00,48.880701,2.3271675
+Poivron Rouge,Boulevard de Charonne 75020,sandwich;burger,"Mo-Fr 12:00-15:00, 18:00-23:30; Sa-Su 12:00-23:30",48.8532278,2.3973316
+Côme Montorgueil,Rue Bachaumont 75002,bowl;pita,Mo-Fr 9:00-15:15,48.8660168,2.3464638
+Bibimbap,Boulevard de l'Hôpital,korean,"Mo-Su 12:00-14:30,19:30-22:30",48.8408119,2.3620898
+Melt Batignoles,Rue Legendre 75018,barbecue,"Tu-Su 12:00-15:00,19:30-22:30, Fr,Sa 12:00-15:00,19:30-23:00",48.887766,2.3202257
+Nous Châteaudun,Rue de Châteaudun 75009,world;healthy,"Mo-Fr 12:00-14:30,19:00-22:30; Sa,Su 12:00-15:00,19:00-22:30",48.8759011,2.3414237
+Le Beyritus,Avenue de Versailles,lebanese,Mo-Sa 11:30-22:30,48.8411052,2.2660664
+SAaM,Rue de Lancry 75010,korean,"Tu-Sa 12:00-14:30,19:00-22:30",48.872192,2.3627227
+La Cantine Russe,Avenue de New York 75116,russian,"Mo-Sa 12:00-15:00,19:00-24:00",48.8633584,2.2959364
+Racina,Rue Descartes 75005,italian,"Mo-Sa 11:30-15:30, 18:30-23:30",48.8453138,2.3491879
+Radio Eat,Avenue du Président Kennedy 75016,french;regional;seafood,Mo-Su 11:00-23:00,48.8521889,2.2792206
+Pong Crabe,Rue Hallé 75014,thai,"Mo-Fr 12:00-14:30,19:00-22:30, Sa-Su 19:00-22:30",48.828704,2.3310971
+Papy Aux Fourneaux,Rue de l'Ouest 75014,french,"Mo-Su 12:00-14:00,19:30-22:00",48.8355396,2.3180191
+We Cantine,Rue des Déchargeurs 75001,vietnam,"Mo-Fr 12:00-15:00,19:00-23:00; Sa 12:00-23:00",48.8598426,2.3460581
+Kathmandu,Rue des Boulangers 75005,nepalese,"Mo-Fr 12:00-14:30, Mo-Sa 19:30-23:00",48.8459093,2.3532236
+Titi Graille,Rue des Martyrs 75018,french,Mo-Su 12:00-23:00,48.8843716,2.3398406
+Aux 3 Présidents,Rue du Général Alain de Boissieu 75015,french,Tu-Fr 08:30-02:00,48.8362455,2.2734109
+Bowl y roll,Rue Réaumur 75002,asian,Mo-Sa 11:00-21:30; Su off,48.8673908,2.3466675
+Goiko,Rue de Richelieu 75002,burger,"Mo-We 12:00-15:00, 18:30-22:45; Th 12:00-15:00, 18:30-23:00; Fr 11:30-15:00, 18:30-23:00; Sa 11:30-15:30, 18:30-23:00; Su 12:00-15:30, 18:30-22:45",48.8713628,2.3398886
+Bobby,Rue Lambert 75018,italian,"Tu-Th 12:00-14:30,19:30-22:30; Fr 12:00-14:30,19:30-23:00; Sa 12:00-15:00,19:30-23:00; 12:00-15:00,19:30-22:30",48.8891896,2.3447248
+Joayo,Rue du Faubourg Saint-Antoine 75011,barbecue;korean,"Mo-Su 12:00-15:00, 19:00-23:00",48.8501704,2.3849975
+Le Diez,Rue de Bagnolet 75020,african,"Mo-Th 12:00-14:30, 20:00-23:30; Fr-Su 20:00-23:30",48.859703,2.4034225
+Koko,Quai de la Loire 75019,japanese,Tu-Su 12:00-23:00,48.8838277,2.3719513
+Restaurant 17,Boulevard Bessières 75017,pizza,Mo-Su 08:00-20:00,48.8961254,2.3188907
+Italian's Caffe,Quai de la Rapée 75012,italian_pizza,Mo-Fr 12:00-14:00,48.841123,2.373995
+Ito Sushi,Rue Adolphe Mille 75019,japanese,Mo-Sa 11:30-14:30; Mo-Su 18:15-22:45,48.8881741,2.3891755
+La Barra Latina,Rue Servan 75011,colombian,"Mo-Fr 12:00-14:45,18:00-23:00; Sa 18:00-02:00",48.8619782,2.3824919
+Touytouyt,Rue du Faubourg Saint-Martin 75010,cambodian,"Mo-Th 12:00-14:00; Fr 12:00-14:00,19:00-22:00; Sa 19:00-22:00",48.8820425,2.3665542
+Perico's Mexican Restaurant,Lexington Road 40361,mexican,Mo-Sa 11:00-22:00; Su 12:00-23:00,38.1862012,-84.2876214
+Blitz,Rue Rochebrune 75011,mediterranean,"Tu-We 12:00-14:30,19:00-22:30; Th-Sa 12:00-14:30,19:00-23:00; Su 12:00-16:00",48.8608257,2.3789798
+Bella Luna,Rue de Maubeuge,italian,"Mo-Sa 12:00-14:30,19:00-23:00",48.8788967,2.346517
+Solemar,Rue Poussin 75016,lebanese;oriental,"Mo-Sa 12:00-14:30,19:00-22:30",48.8485295,2.2609919
+Pitaya,Rue de la Harpe 75005,thai,Mo-Fr 11:30-22:00; Sa-Su 11:30-23:00,48.8528926,2.344681
+L’Oraziano,Boulevard de l'Hôpital 75013,italian;italian_pizza;pizza,"Mo-Sa 12:00-15:00, 18:30-23:00",48.8354958,2.3587966
+Nana,Rue Notre-Dame-de-Lorette 75009,french;seafood;fish,"Tu-Fr 12:00-14:00,19:30-22:30; Sa 19:30-22:30; Mo 19:30-22:30",48.8796732,2.3358601
+La Cantine Chinoise WENZHOU,Rue de Belleville,chinese,11:30-22:00 (Thuesday off),48.8724903,2.3788507
+Le Feu de Mars,Rue Vandrezanne 75013,japonais,"Mo-Sa 12:00-15:00,19:00-23:00; Su 19:00-23:00",48.8276512,2.3531966
+Bouche,Rue Jean-Pierre Timbaud 75011,french,"We-Fr 18:30-00:30; Sa 12:00-16:00,18:30-00:30; Su 12:00-16:00",48.8681307,2.3784166
+CIP20,Rue de Tourtille 75020,international,We-Fr 12:00-15:00,48.8721045,2.3804329
+Compose,Rue Brémontier 75017,salad;pizza,Mo-Sa 11:00-16:30,48.8847143,2.3041471
+Salatim,Rue des Jeûneurs,israeli,"Mo 08:00-16:00, Tu-Th 09:00-22:00, Su 11:00-16:00",48.8690877,2.3460645
+Breathe,Rue Henry Monnier 75009,fine_dining,"Tu-Su 12:00-14:30, 18:30-22:30",48.879878,2.3373738
+PNY Oberkampf,Rue Oberkampf 75011,burger,"Mo-Fr 12:00-15:00,18:00-22:00; Sa-Su 12:00-22:00",48.8656521,2.3777638
+Le Petit Cluny,Rue de la Harpe,french,Mo-Su 09:00-02:00,48.8515967,2.3436424
+à Smorfia,Rue Saint-Maur,pizza,Tu-Su 12:00-14:30; 19:00-22:00,48.8694595,2.3741073
+L'Alicheur,Rue Saint-Maur 75011,cambodian,"Mo-Fr 12:15-15:30,19:15-23:30",48.8654943,2.3775845
+Yaai Thaï,Boulevard de Bonne Nouvelle 75002,thai,"Mo-Th 12:00-14:30,19:00-23:00; Fr 12:00-14:30,19:00-23:30; Sa 12:00-23:30",48.8703762,2.3485884
+Hotaru,Rue Rodier 75009,japanese,"Tu-Sa 12:30-14:30,19:00-22:00",48.8782074,2.3427222
+Shinjuku Sushi,Rue Lacharrière 75011,japanese,"Mo-Sa 11:30-14:30,18:30-22:30; Su 18:30-22:30",48.8617488,2.3777791
+Au Nouveau Nez,Rue Saint-Maur 75011,mediterranean;italian;french,Tu-Sa 12:00-24:00,48.8661975,2.3770012
+Mian Fan,Rue de Mogador 75009,asian;fusion,Mo-Sa 12:00-23:00; Su 12:00-22:00,48.87478,2.3314887
+IL Brigante,Rue du Ruisseau 75018,pizza,"Mo-Sa 12:00-14:30,19:30-23:30; Su 19:30-23:30",48.8921794,2.3400395
+Bar à Iode - Charonne,Rue Jean Macé 75011,seafood,"Tu-Sa 12:00-15:00, Tu-Sa 19:00-23:00",48.8533837,2.3830737
+Co,Rue Esclangon 75018,fine_dining;regional,"Tu-We 14:00-24:00, Th-Sa 14:00-02:00",48.8966278,2.3429355
+Les Pirates de Montmartre - La Cuisine,Rue du Poteau 75018,fish,"Tu-We 10:00-15:00, Tu-We 18:00-21:00, Th 10:00-15:00, Th 18:00-21:00, Fr 10:00-17:00, Fr 18:00-21:00, Sa 10:00-21:30, Su 10:00-13:30",48.8933911,2.3424474
+Ma Chère et Tendre,Boulevard Gouvion-Saint-Cyr 75017,steak_house,"Mo-Fr 12:00-14:00, 19:00-22:30",48.879217,2.2849655
+Com Viet,Rue Vergniaud 75013,vietnamese,"Mo-Sa 12:00-15:00,19:00-22:00",48.8284395,2.3455569
+Le Agra,Rue Lekain 75016,indian;pakistani,"Mo-Su 12:00-14:00,18:30-23:00",48.8565114,2.278402
+Chez Léon,Rue de l'Isly 75008,french,Tu-Fr 06:00-23:00; Sa 08:00-19:00,48.8747294,2.3258521
+Sellae,Rue des Wallons 75013,french,"Tu-Sa 12:15-15:00, 19:15-23:30",48.8387321,2.3596622
+Bon Ga,Rue Montgallet,korean;barbecue,"Tu-Su 02:00-04:30,09:00-22:30",48.8428985,2.3866518
+Topoly,Rue Saint-André des Arts 75006,lebanese,Mo-Su 11:30-00:00,48.853257,2.342534
+Chiche,Rue du Château d'Eau,oriental,Mo-Tu 12:00-14:30; We-Fr 12:00-22:00; Sa 10:00-22:00; Su 10:00-16:00,48.8707939,2.3588107
+Ai Hsu,Rue Saint-Sébastien 75011,japanese;asian;taiwan,"Mo-Sa 12:00-15:30, 19:00-22:00",48.8609731,2.3688535
+Trois B,Avenue Jean Jaurès,french,"Mo-Fr 12:00-14:00,19:00-22:00,Sa 12:30-14:30,19:30-22:30",48.8836813,2.3745431
+L'Impasto,Rue Traversière 75012,pizza,"Mo-Su 12:00-15:00, 19:00-22:30",48.8490162,2.3745017
+Café Templier,Rue de l'Armorique 75015,french,"Mo-Fr 09:00-16:30,18:00-22:00",48.838852,2.3147748
+Koï,Rue Chevert 75007,japanese,"Mo-Sa 11:30-14:45,18:00-22:45; Su 18:00-22:45",48.8545591,2.3075491
+Jah Jah by Le Tricycle,Rue des Petites-Écuries,burger,Mo 12:00-18:00; We-Sa 12:00-22:30; Su 12:00-17:00,48.8731478,2.3531601
+Les Inséparables,Rue Francœur 75018,french,"Mo-Th 19:30-22:30; Fr 19:30-23:30; Sa 11:00-15:00,19:30-23:00; Su 11:00-15:30",48.8902717,2.3421566
+Soukhothai,Rue Custine 75018,thai,"Th-Tu 12:00-14:30,19:00-23:00",48.8891754,2.3456037
+La Cuisine de Chez Moi,Rue Richer 75009,asian,Mo-Sa 19:00-22:30,48.8740948,2.3466612
+Ibrik Kitchen,Rue de Mulhouse,balkan,Mo-Sa 12:15-10:30,48.8687422,2.3467411
+Levantine,Rue Bichat,middle_eastern,"12:00-15:00,18:30-22:30",48.8715656,2.3681377
+New Hawaïenne,Rue Louis Bonnet 75011,korean,"Mo-Su 12:00-15:00, Tu-Su 18:00-22:30",48.8710308,2.3765493
+Le Paradis du Fruit,Boulevard des Batignolles,french;international,Mo-Su 12:00-01:00,48.8835412,2.3264423
+Chez Véro,Rue Ramponeau 75020,italian;french,"""mardi au vendredi midi et soir""",48.8714646,2.3804748
+Ravioli Chinois Nord-Est,Rue Civiale,chinese,"PH,Th-Tu 11:00-23:00",48.8726635,2.375241
+Café Foufou,Rue Oberkampf,french;brunch,Mo-Su 08:00-18:00,48.8630614,2.3686085
+Mignon café,Rue Caulaincourt 75018,french;brunch,Mo-Fr 08:30-18:00; Sa-Su 09:30-18:00,48.8896161,2.336153
+Baba Zulu,Rue Beaurepaire 75010,waffle,"Mo-Sa 12:00-14:30, 19:00-22:30",48.8711142,2.3639913
+Trois Fois Plus de Piment,Rue Mouton Duvernet 75014,asian;chinese,"Th-Tu 12:00-14:30, 18:30-22:30",48.8318932,2.3275894
+Akita 16,Rue de l'Assomption 75016,asian,Mo-Sa 11:00-22:30,48.8529671,2.2756181
+Pizza Hut,Rue Jean Nicot 75007,pizza,"Mo-Fr 11:30-14:30, 18:00-23:00; Sa-Su 11:30-23:00",48.8600499,2.3075284
+Eataly Paris Marais,Rue Sainte-Croix de la Bretonnerie 75004,italian,Mo-Su 10:00-23:00,48.8584124,2.3543579
+Chez Papa,Boulevard Voltaire 75011,french,Mo-Su 06:30-00:00,48.8573597,2.3805386
+Akitaya,Rue Francœur 75018,japanese,"Mo-Sa 12:00-15:00, 18:45-23:00; Su 18:45-23:00",48.8902195,2.3423201
+La Halte,Rue Custine 75018,french,Mo-Su 07:00-02:00,48.8892801,2.3443979
+Il Padrino,Rue Custine 75018,italian,Su-Th 19:00-23:30; Fr-Sa 19:00-24:00,48.8894061,2.3439862
+Mariba,Rue Legendre 75017,vietnamese,"Tu-Sa 12:00-14:00,19:00-22:00",48.8886675,2.3218084
+Bao Bao,Rue Alexandre Dumas 75011,chinese,"Mo-Sa 11:30-15:00,18:30-23:00",48.8528111,2.3892705
+Les Saveurs du Maroc,Rue Rouelle 75015,marocaine,"Tu-Su 12:00-14:30, Tu-Su 19:00-23:00",48.849377,2.2901556
+K'S Roll,Boulevard de Rochechouart 75009,sushi,Mo-Sa 09:00-18:00,48.8808796,2.3463302
+Pizza di Gio,Rue du Cherche-Midi 75006,pizza,"12:00-14:30,19:00-22:15",48.8494153,2.3260058
+Racine des Prés,Rue de Gribeauval 75007,french,"Mo-Fr 12:00-14:00,19:30-21:45",48.8561441,2.3269901
+Tamada,Boulevard Saint-Michel,georgian,"Mo-Su 12:00-15:00,19:00-23:00",48.8411232,2.3376884
+Mamma,Rue Oberkampf 75011,pizza;pasta;italian,"Mo-We 12:00-15:00,18:00-23:00; Th 12:00-15:00,18:00-24:00; Fr-Sa 12:00-24:00; Su 12:00-23:00",48.8654822,2.3770317
+James Bun,Rue Oberkampf 75011,asian,Mo-Su 12:00-23:00,48.8661966,2.380016
+Café Limo,Place Gustave Toudouze 75009,italian,Mo-Su 10:00-24:00,48.8795353,2.337468
+La Lasagneria,Rue Pierre Fontaine 75009,italian,Tu-Sa 19:00-23:00,48.8810683,2.3346928
+Bululu Arepera,Rue de la Fontaine du But 75018,latin_american;venezuelian,"Mo-Su 12:00-23:00,08:00-18:00",48.8910056,2.339645
+Trois Fois Plus de Piment,Rue Frédéric Sauton 75005,asian;chinese,"Tu-Su 12:00-15:00, 19:00-23:00",48.8507042,2.3490825
+Phô Neuf,Rue de Maubeuge 75009,chinese;vietnamese,"Tu-Su 12:00-14:30,18:30-22:30",48.877757,2.3435552
+La Bibimerie,Rue Lucien Sampaix 75010,korean,"Mo-Fr 12:00-15:00; Tu-Fr 19:00-22:00; Sa 12:30-15:30, 19:30-22:30",48.8708064,2.3596269
+Côme Bourse,Rue de la Bourse 75002,bowl;pita,Mo-Su 10:00-15:15; Sa-Su off,48.8695214,2.3389989
+Alfredo Positano,Rue de Boulainvilliers 75016,italian,12:00-14:30;19:00-22:30,48.8518535,2.2772323
+Le Petit Châtelet,Rue de la Bûcherie,french,"Mo-Su 12:00-14:30,19:00-22:45",48.8526239,2.3470368
+Les Piplettes,Rue Laffitte 75009,arab,"Tu-Th 12:00-15:00; Fr-Sa 12:00-15:00, 19:30-22:00",48.8753137,2.3384016
+Do Brasil,Rue Ganneron 75018,brazilian,Tu-Sa 11:00-22:00,48.8864461,2.3274233
+Mme Shawn,Rue Yves Toudic 75010,thai,"Mo-Su 12:00-15:00, Su-Th 19:30-23:00, Fr-Sa 19:30-23:30",48.8711867,2.3629221
+La Bringue,Rue Yves Toudic 75010,french,"Mo-Su 12:00-15:00, Mo-Su 17:00-01:30",48.8714205,2.3623944
+Le Petit Harajuku,Rue Oberkampf 75011,ramen;japanese,"Mo-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00",48.8663367,2.3797921
+Thai Wok House,Rue Oberkampf 75011,thai,"Mo-Th 12:00-22:30; Fr,Sa 12:00-23:00; Su 19:00-22:30",48.8661194,2.3789392
+Doddy's Coffee,Rue Mstislav Rostropovitch 75017,burger;american;coffee_shop,Mo-Fr 08:00-23:00; Sa-Su 10:00-22:00,48.8918047,2.3106644
+Pasta & Fagioli,Rue Claude Bernard 75005,pizza;pasta;italian,"Mo-Su 12:00-15:00,19:00-23:00",48.8408625,2.3448936
+Vapiano Paris Batignolles,Rue Mstislav Rostropovitch 75017,italian;pasta;italian_pizza,Mo-Fr 11:00-14:30; Mo-Fr 18:00-22:30; Sa-Su 11:00-23:30,48.8903038,2.3119124
+Le 17.45 Pigalle,Rue Chaptal 75009,deli;french,Tu-Sa 17:45-01:00,48.8803922,2.3348471
+Kodawari Ramen (Tsukiji),Rue de Richelieu 75001,japanese;ramen,Mo-Su 11:45-23:00,48.8644027,2.3363001
+Le Goût du Sablé,Rue du Docteur Goujon 75012,coffee_shop;salon_de_thé;cake;breakfast;international,Tu-Su 11:30-18:00,48.8398914,2.3981308
+Ave Pizza Romana,Rue de la Folie-Méricourt,italian;italian_pizza;pizza,"Tu-Sa 12:00-14:30,19:00-23:00",48.8669444,2.3695526
+Pizz-art,Rue Jean-Pierre Timbaud 75011,pizza;italian_pizza,"Mo-Fr 12:00-15:00, 18:30-22:30",48.8666133,2.3729823
+Shinzzo,Boulevard Voltaire 75011,chinese;japanese,"Su-Th 11:00-15:00, 18:30-23:00; Fr 11:00-15:00; Sa (shabbat+00:45)-23:00",48.8515264,2.3909744
+Oxymore,Rue Marguerite de Rochechouart 75009,pizza,"PH,Mo-Su 12:00-15:00,19:00-22:00",48.880643,2.3465463
+Given,Rue de Bagnolet 75020,coffee_shop;french;burger;international,Tu-Su 12:00-15:30,48.8588004,2.4013779
+Piacere,Rue Bobillot 75013,italian_pizza,Mo-Su 12:00-14:30; 19:00-22:00,48.8254574,2.3502022
+Joayo,Rue d'Assas 75006,barbecue;korean,"Mo-Su 12:00-14:30, 19:00-22:30",48.8464784,2.3306842
+Onze à Table,Rue de la Folie-Méricourt 75011,french,"Tu-Sa 11:30-15:00,18:30-24:00; Su 11:30-16:00",48.8617762,2.3744486
+锅内锅外 Fondue Le Festin,Rue Saint-Sabin 75011,chinese,"Mo 18:30-23:00; Tu-Su 12:00-15:00,18:30-23:00",48.8550949,2.3718283
+Miss SUN,Rue Lamartine,chinese,"Mo-Th 18:30-23:00; Fr-Su 12:30-15:30,18:30-23:00",48.8764516,2.3420687
+OMI,Rue Ordener 75018,lebanese,Mo-Sa 11:30-22:30; Su 11:30-22:30,48.8936,2.3359227
+Les P'tites Indécises,Rue des Trois Bornes,french,Mo-Su 12:00-22:30,48.8664114,2.3721664
+Gintoki,Avenue Parmentier,japanese,"Mo-Su 11:30-14:30,18:30-22:30",48.8673606,2.3731973
+Peppe Pizzeria,Place Saint-Blaise 75020,italian;pizza,"Mo-Su 12:00-14:00,18:45-22:30",48.8600565,2.4041956
+Magnà,Rue Notre-Dame-de-Lorette 75009,italian,"Tu-Fr 11:30-15:00,18:00-22:30; Sa 18:00-23:30",48.8796397,2.3362305
+Tonton Luigi,Rue Saint-Maur 75011,italian,"Tu-Sa 12:00-15:00,19:00-24:00",48.8668937,2.3761265
+Côme - La Fayette,Rue La Fayette 75009,bowl,Mo-Fr 10:00-15:15,48.8746195,2.3386851
+Côme Victoire,Rue de la Victoire 75009,bowl;pita,Mo-Fr 10:00-15:15,48.8748219,2.3309699
+Le Jugurtha,Rue de la Tombe Issoire 75014,couscous,"Tu-Su 12:00-14:15,19:00-22:30",48.8293642,2.3334477
+OKITO Le Peletier,Rue du Faubourg Montmartre 75009,japanese,"Mo-Sa 12:00-15:00,18:30-23:00; Su 18:30-23:00",48.8753639,2.3406528
+Chez Sofia,Place Gustave Toudouze 75009,lebanese,"Mo-We 12:00-14:45,19:00-23:15; Th-Fr 12:00-14:45,19:00-23:30; Sa-Su 12:00-15:30,19:00-23:00",48.8797352,2.3373643
+Distrito Francés,Rue du Pont aux Choux 75003,mexican,"Tu 12:30-15:00; Fr 12:30-15:00, 19:00-23:30; Sa 12:00-15:30, 19:00-23:30; Su 12:00-15:30, 19:00-22:30; We-Th 19:30-23:00",48.8612366,2.3648389
+Aujourd'hui Demain,Rue du Chemin Vert 75011,cake;coffee_shop;regional,Mo 11:00-19:00; Tu-Su 11:00-22:30,48.8589199,2.3745562
+Yemma,Rue du Chemin Vert 75011,arab;moroccan,Mo-Su 12:00-23:00,48.8617654,2.382865
+Au Vietnam,Rue Niepce 75014,vietnamese,"PH Mo-Sa 11:30-14:30, 18:30-22:30",48.8351017,2.3178492
+Sushi Passy,Rue Gavarni 75016,japanese,"Mo-Sa 12:00-14:30, 19:00-22:30",48.8585296,2.2824349
+Mirama,Rue Saint-Jacques,chinese,"Mo-Fr 12:00-15:00,18:00-22:30; Sa,Su 12:00-22:30",48.8517007,2.3461704
+Chamaille,Rue Saint-Lazare 75009,regional,Mo-Fr 12:00-14:00; Sa-Su 12:00-16:30,48.8768523,2.337638
+Sushi Marché,Rue Mirabeau 75016,japanese,Tu-Sa 12:00-23:00,48.8466796,2.2710883
+OUR Saint Lazare,Rue de Londres 75008,kebab,"Mo-Fr 12:00-22:00, Sa 12:00-16:00",48.8780059,2.3260921
+Tien Hiang,Rue Bichat 75010,asian,"Mo,We,Th,Su 12:00-14:30,18:30-22:30; Fr,Sa 12:00-15:00,18:30-23:00",48.8702714,2.368966
+Chez Huang,Avenue de la République,asian,"Mo-Sa 11:00-15:00,18:00-23:00",48.8661774,2.3706169
+Palatino,Boulevard des Batignolles 75017,italian,Mo-Fr 11:30-23:00,48.8832353,2.324973
+Sens Uniques,Rue Damrémont 75018,french,"Mo-Fr 12:00-14:00,18:00-22:30; Sa 12:00-14:30,18:00-23:00; Su 11:30-15:00",48.8899041,2.3340681
+La Main Noire - Lab & Coffee Shop,Rue Cavallotti 75018,coffee_shop,We-Fr 09:00-17:00; Sa-Su 10:00-17:00,48.8864733,2.3281401
+Rusidda,Rue Borda 75003,italian,"Tu-Sa 12:00-15:00,17:00-21:30",48.8660463,2.3574245
+Marinette,Rue Marcadet 75018,pizza,Mo-Sa 16:00-02:00,48.8913786,2.3425332
+Guimi House,Rue Beaubourg 75003,asian;coffee_shop;crepe;ice_cream,Mo-Su 11:30-22:30,48.8645799,2.3551118
+Guimi House,Rue de Turbigo 75003,asian;coffee_shop;crepe;ice_cream,Mo-Su 11:30-22:30,48.8648393,2.3538708
+Tran Tran Zaï,Rue de l'École Polytechnique 75005,chinese;sichuan;noodles,"12:00-15:00,19:00-22:30",48.8474383,2.3480661
+L'Envers du Décor,Rue du Rocher 75008,bistro,"Mo-Sa 09:00-15:00, Tu-Sa 18:00-24:00",48.8791185,2.3188257
+Le Comptoir de Papa,Rue de l'Ouest 75014,greek;mediterranean;persian,Mo-Sa 11:00-21:00,48.8370118,2.3214968
+Shabestan,Rue du Commandant Rivière,persian,Mo-Su 12:00-23:00,48.8726933,2.3093255
+La Campagnola,Avenue du Maine,italian,"Mo-Sa 12:00-14:30, 19:00-23:00; Su off",48.8356981,2.3233826
+Khao Thai,Rue de Sévigné 75004,thai,"12:00-14:30,18:00-22:30",48.8556539,2.3622403
+Léon de Bruxelles,Boulevard Beaumarchais,friture,"Tu-Th,Su 11:30-24:00; Fr-Sa 11:30-01:00",48.8540276,2.3685673
+Les marmites de Fa,Rue Lamartine,african,"Mo-Sa 11:00-15:00; Mo-We,Su 19:00-24:00; Th-Sa 19:00-02:00",48.8766369,2.3407289
+La Belle Étincelle,Boulevard Pasteur 75015,french,Tu-Su 12:00-14:00; Tu-Fr 19:00-21:45,48.8414491,2.314344
+La Thith Cantine,Rue des Dames,vietnamese,Mo-Fr 12:00-15:00,48.8835143,2.3198664
+The cure,Rue Notre-Dame-de-Lorette 75009,bowl,Mo-Fr 12:00-15:00,48.878709,2.3373252
+Don Giovanni,Rue François Miron 75004,italian;pasta,"Mo-Sa 12:00-14:30, 19:00-23:00",48.8557313,2.3571723
+Clasico Argentino,Rue de Saintonge 75003,argentinian,"Mo-Fr 12:00-15:00, 18:00-22:30; Sa-Su 12:00-23:00",48.8630555,2.3641346
+L'Authentique,Rue de Vaugirard,traditional;french,"Mo-Fr 12:00-14:30, 19:00-22:30",48.8433699,2.3143782
+Azaytoona,Rue Simart 75018,indian,"Mo-Th 11:30-16:00,18:00-23:00; Fr 18:00-23:00; Sa-Su 12:00-23:00",48.8897519,2.3492337
+cadence,Avenue Parmentier 75011,french,"Mo-Fr 12:00-14:00,18:00-23:00; Sa 12:00-15:30,18:00-01:00",48.868469,2.3719492
+Cocoon,Rue des Moines 75017,japanese,Mo-Fr 09:30-19:00; Sa 10:30-19:00,48.8925938,2.3225789
+Riz Djondjon,Rue Saint-Denis 75002,haitian;caribbean;african,Su-Th 11:00-22:00; Fr-Sa 11:00-00:00,48.8695091,2.3523471
+Honey Home,Rue de Fleurus,asian;sushi,"Mo-Sa 11:30-15:00,18:30-21:30",48.8466113,2.3276569
+Pierre Sang,Rue Notre-Dame-des-Champs,korean,"11:30-15:00,17:30-22:30",48.8463831,2.3272436
+La mère Michèle,Rue Vicq d'Azir 75010,oriental;traditional,Mo-Su 08:00-23:30,48.8762022,2.3697272
+Ya Bayté by Hébé,Rue des Grands Degrés 75005,lebanese,"Fr,Sa 12:00-23:00; Su 12:00-22:30; Mo 18:00-22:30; Tu-Th 12:00-22:30",48.85122,2.3500241
+Majouja,Rue Laffitte 75009,algerienne,Mo-Sa 11:45-15:00,48.87194,2.3371467
+Les Routiers,Rue Marx Dormoy 75018,bistro,5:30-23:00,48.8881297,2.360087
+Tokyo,Rue Custine 75018,sushi,"Tu-Su 12:00-15:00,18:30-23:00; Mo 18:30-23:00",48.8890695,2.3459851
+Fabrezza,Rue des Cinq Diamants,pizza,Mo-Su 11:00-01:00,48.8280768,2.3500025
+Baitong Thai,Rue Falguière,thai,"Mo-Fr 11:30-14:15, 19:00-21:15; Sa 19:00-21:15",48.8427124,2.3160229
+Trois Fois Plus de Piment,Rue Rodier 75009,asian;chinese,"Tu-Su 12:00-15:00, 18:30-22:30",48.8778682,2.3423903
+Chez Ttotte,Rue Falguière,basque,"Mo-Fr 12:00-14:30, 19:30-23:00; Sa 19:30-23:00",48.8429115,2.3162545
+Trattoria Dell'Angelo,Avenue Rapp 75007,italian,Mo-Su 08:00-21:00,48.860656,2.3008329
+New jawad,Avenue Rapp 75007,indian,"Mo-Su 11:30-14:30, 18:30-23:30",48.8602559,2.3007106
+Dilia,Rue d'Eupatoria 75020,italian,Th-Mo 19:30-22:30; Th-Su 12:30-14:00,48.8686397,2.3862179
+Vantre,Rue de la Fontaine au Roi,french,"Mo-Fr 12:00-14:00,19:30-22:00",48.8685045,2.3701736
+Akasaka,Rue Nicolo,japanese,"Tu-Sa 12:00-14:00,19:00-22:00",48.8584767,2.2805319
+Ricci,Rue Nicolo 75016,italian;pizza;pasta;burger,"Mo-Su 12:00-14:30,19:30-22:30",48.8581997,2.2807911
+Des Gars dans la Cuisine,Rue Vieille du Temple,french,Tu-Sa 12:00-14:30;Tu-Sa 19:00-22:30;Su 11:00-17:00,48.8594432,2.3600509
+Mi Perú,Rue Rondelet 75012,peruvian,"Tu-Sa 12:00-15:00, 19:00-22:00; Su 12:00-17:00",48.8466797,2.3852939
+Pizza Unica,49 Rue du Chemin Vert,pizza,"Tu-Su 11:30-15:00,18:30-22:00",48.8593105,2.3752108
+Bistrot Le 18,Rue Duc 75018,pizza;ice_cream,Mo-Fr 07:00-00:00; Sa-Su 09:00-00:00,48.8923993,2.3421088
+Bleu matin,Rue Lamarck 75018,breakfast;lunch,Mo-Fr 09:30-15:00; Sa-Su 09:30-16:00,48.8900244,2.338588
+Le Petit Panda,Rue Simart 75018,asian;vietnamese;chinese,"Mo-Sa 11:30-15:30,18:30-22:00; Sa18:30-21:00",48.8917456,2.3468551
+Gamila,Rue du Rendez-Vous,moroccan,Mo-Su 12:00-23:00,48.8454564,2.4036404
+La Pizza d'Anita,Quai Louis Blériot 75016,pizza;italian;international;ice_cream,Mo-Fr 12:00-14:30 / 18:00-23:00 Sat 18:00-23:00,48.8389537,2.266359
+Anata,Rue Custine 75018,sushi,"Mo,We-Sa 11:30-15:00,18:30-23:00; Tu,Su 18:30-23:00",48.8896207,2.3432001
+Goiko,Rue Oberkampf 75011,burger,"Mo-We 12:00-15:00, 18:30-22:45; Th 12:00-15:00, 18:30-23:00; Fr 11:30-15:00, 18:30-23:00; Sa 11:30-15:30, 18:30-23:00; Su 12:00-15:30, 18:30-22:45",48.8655631,2.3766013
+Jinchan Shokudo,Rue du Faubourg Saint-Antoine 75012,japanese,"Mo-Fr 12:00-14:30,19:00-22:30; Sa,Su 12:00-15:00,19:00-22:30",48.8503367,2.3803865
+Phô5,Rue Saint-Jacques 75005,vietnamese,Mo-Sa 12:00-22:00,48.8512377,2.3459619
+Arty Le Restaurant,Rue Daunou 75002,french;bistro;steak_house,"Tu-Fr 12:00-15:00,17:00-24:00",48.8698572,2.3307051
+O Brazil,Rue du Faubourg Saint-Martin 75010,brazilian,Mo 18:30-22:30; Tu-Su 12:00-23:00,48.8701743,2.3560795
+Pâtisserie Tholoniat,Rue du Château d'Eau 75010,coffee_shop,Tu-Su 08:00-20:00,48.8718829,2.3566625
+MONGOO,Rue Joubert 75009,salad,Mo-Fr 11:30-14:30,48.8747342,2.3296789
+Aki Café,Rue Sainte-Anne 75002,japanese,Mo-Sa 11:00-16:00,48.8687275,2.3365482
+Mengano,Rue Oberkampf 75011,argentinian,Mo-Su 11:30-22:30,48.8664918,2.380409
+Fagot,Passage Geffroy Didelot 75017,french,Tu-Su 10:00-00:00,48.8820519,2.3174873
+Il Goto,Rue de Charenton 75012,italian,"Tu-Sa 12:00-14:30,19:00-22:30",48.8408672,2.3874577
+El Vecino,Rue Saint-Honoré 75001,mexican,Mo-Sa 12:00-22:30,48.8640622,2.333981
+Nakagawa,Rue Oberkampf 75011,japanese,"Tu-Sa 12:00-14:30,19:30-22:30",48.8663998,2.3808553
+Junglii,Rue de la Jonquière 75017,indian,"Tu-th 12:00-14:30,18:00-22:00; fr 12:00-14:30,18:00-22:30; sa 12:00-15:00,18:00-22:30; su 12:00-15:00,18:00-22:00",48.8944756,2.3201359
+Chez Paul,Rue de la Jonquière 75017,lebanese,Mo-Sa 11:00-00:00,48.8934587,2.3238202
+Pont d'Istanbul,Boulevard Bessières 75017,turkish,Mo-Sa 11:00-24:00,48.8954874,2.3171871
+La Capannina,Rue de la Montagne Sainte-Geneviève 75005,italian;pizza,We-Su 12:00-22:30,48.8469719,2.3478049
+Le bruit qui court,Rue Damrémont 75018,french,Mo-Th 12:00-01:00; Fr-Sa 12:00-02:00; Su 11:00-16:00,48.892602,2.3355089
+The Crying Tiger,Rue du Cherche-Midi 75006,thai,Mo-Su 12:00-22:30,48.8483758,2.3241078
+Benchy,Rue du Cherche-Midi 75006,coffee_shop;sandwich,Tu-Sa 11:00-17:00,48.8492084,2.3256651
+L'Auberge de Nicolas Flamel,Rue de Montmorency,gastronomic,"Mo-Sa 12:00-14:30,19:00-22:30",48.8635555,2.3531432
+Pez,Rue Henry Monnier,peruvian,"Mo-Fr 12:00-14:30, 19:00-21:30",48.880726,2.3375689
+Phu Thai,Rue Pouchet,thai,"Mo-fr 12:00-15:00,18:30-22:30",48.8921228,2.3190594
+Bouillon République,Boulevard du Temple 75003,french,Mo-Su 12:00-00:00,48.8659573,2.3645398
+Mamie Chérie,Rue de Candie 75011,french,"Tu-Th 12:00-14:30, 19:30-22:00; Fr-Sa 12:00-14:30, 19:00-22:00; Su 12:00-14:30",48.8511849,2.3801574
+"Régie de quartier du 14ème, Cantine associative",Rue Prévost-Paradol 75014,sandwich;burger;french,Mo-Fr 12:00-14:30,48.8259512,2.3081956
+Taj Mahal,Rue d'Austerlitz 75012,indian,"Mo-Su 12:00-15:00, 18:00-23:00",48.8471648,2.3707809
+Le petit veg,Rue Cail 75010,indian,Tu-Su 11:30-23:00,48.8827324,2.3595019
+Partage Café,Rue Lecourbe 75015,brunch;coffee_shop;breakfast,"Mo-Fr 08:00-17:30, Sa-Su 09:00-18:00",48.8441526,2.3082565
+Maison Calibré,Rue Lucien Sampaix 75010,french,Mon-Sat 10-21,48.8719945,2.3605713
+Sold Out,Rue Lucien Sampaix 75010,burger,11:00-14:30; 18:30-22:30,48.870791,2.3598305
+L'embuscade,Rue Catherine de La Rochefoucauld 75009,african,"Tu-Fr 12:00-14:30,18:00-02:00; Sa 18:00-02:00",48.8800581,2.3350705
+Café Ella,Rue de la Convention 75015,french,"Mo-Fr 07:00-23:00, Sa-Su 08:00-23:00",48.8422218,2.2857762
+Ma Cantine Thai,Rue du Rocher 75008,thai,Mo-Fr 12:00-15:00,48.8770801,2.3212806
+Ma Cantine Thaï,Rue Richer 75009,thai,Mo-Fr 12:00-15:00,48.8741017,2.3428812
+Ma Cantine Thaï,Rue Richer 75009,thai,Mo-Fr 12:00-15:00,48.8740904,2.3428664
+Neko Ramen Green,Rue de Paradis 75010,japanese,Mo-Su 11:30-23:00,48.8751583,2.3514038
+Orchidée & KHMER THAÏ,Rue Castex 75004,thai,"Mo-Sa 12:00-14:45,19:00-22:45",48.8526503,2.3662478
+La Belle Ferme,Rue de Miromesnil 75008,french,Mo-Fr 11:00-14:30,48.8749563,2.3159091
+Tonton Mao,Rue d'Enghien 75010,chinese,"Tu-Su 12:00-15:00,18:00-23:00",48.8720398,2.350997
+Cantine de la Maison de la Culture Arménienne de Paris,Rue Bleue 75009,armenian,"Mo-Sa 12:00-15:00,19:00-23:00",48.8753538,2.3461182
+Taipei Gourmet,Boulevard Saint-Marcel,asian,Tu-Sa 11:30-19:00,48.8393616,2.3606588
+Paparazzi,Square de l'Opéra Louis Jouvet,french,"Mo-Sa 12:00-15:30,15:30-00:30",48.8717695,2.3289111
+Au P’tit Viet PARIS,Rue Lauriston 75116,vietnamese,Mo-Fr 12:00-21:30,48.8704342,2.2910589
+Oh Purée !,Rue Tournefort 75005,french,"Tu-Sa 12:15-14:00,19:00-22:00",48.8439747,2.3480328
+Crêperie Brocéliande,Rue de la Roquette 75011,crepe,"Mo 12:00-15:00; Tu-Fr 12:00-15:00,19:00-23:00; Sa 12:00-23:00; Su 12:00-20:00",48.8594664,2.3862811
+Suguru Ramen,Rue Oberkampf 75011,asian;ramen,"Th-Tu 11:30-14:30, 18:00-22:30; We 18:00-22:30",48.8647495,2.3726101
+L'Atelier Ramey,Rue Ramey 75018,french;bistro,"Mo-Su 12:00-15:00, 19:00-23:00",48.8882828,2.3467378
+Le Marquis Paris,Boulevard Poniatowski 75012,french,Mo-Sa 10:00-02:00,48.8332546,2.4011059
+Délice de condorcet,Rue Condorcet 75005,chinese,"Mo-Sa 12:00-14:00, 18:30-22:00",48.879627,2.3480705
+Sacré Frenchy,Boulevard de Sébastopol 75003,french,Mo-Su 11:30-23:00,48.8632185,2.3511346
+Chez Funda,Avenue Ledru-Rollin 75011,kurdish,Mo-Su 11:00-23:00,48.8570136,2.3796521
+Colegio de España,Boulevard Jourdan 75014,cafeteria,"Mo-Fr 07:15-10:30,12:00-14:30; Sa 08:30-16:00",48.8186753,2.3412867
+Haïtian Mama,Rue Labat 75018,caribbean,"Tu 19:00-22:30; We-Su 12:00-15:00, 19:00-23:00",48.8898506,2.3501395
+La Table de Colette,Rue Laplace 75005,french;vegan;vegetarian,"Mo-Fr 12:00-13:30,19:30-21:15",48.8472966,2.3472269
+La Baguette du Relais,Rue des Archives 75004,french;sandwich,"Mo-Fr 12:00-15:00, 18:00-22:00; Sa-Su 12:30-22:00",48.8575877,2.3545005
+Pizzeria Cordial,Rue de Crimée 75019,pizza,"Mo-Su 11:30-14:30,18:00-23:00;Su 17:00-23:00",48.8876306,2.3801355
+STREET Bangkok,Rue Saint-Denis 75002,thai,"Mo-Th 11:30-15:00, 18:30-23:00; Fr-Su 11:30-23:00",48.8639394,2.3501627
+Joayo,Rue de Clichy 75009,barbecue;korean,"Mo-Su 12:00-14:30, 19:00-22:00",48.8814935,2.3282553
+Agrology,Rue de Prague 75012,french;italian;greek,Tu-Fr 17:00-23:00; Sa 11:00-23:00,48.8497552,2.3757126
+Tayim,Rue Gustave Zédé 75016,italian,"Mo-Th,Su 10:00-15:00,19:00-23:00; Sa ""après Chabbat-23:00""",48.855674,2.2727487
+Isshin Ramen,Rue Montmartre,ramen,"Mo-Fr 12:00-14:30, 19:00-23:00; Sa 12:00-23:00",48.870606,2.3429162
+Avocateria Gare de Lyon - brunch,Rue Michel Chasles,breakfast,Mo-Fr 09:30-15:00; Sa-Su 10:00-16:00,48.8463902,2.373748
+O'Mexico,Rue du Père Guérin 75013,mexican,"Mo 19:00-22:00; Tu-Sa 12:00-14:30, 19:00-22:00",48.830248,2.3536461
+Restaurant de la Cordonnerie,Rue Saint-Roch,french,"Mo-Fr 12:00-14:00,19:30-22:00",48.8654287,2.3323794
+La Cantine des Arbustes,Rue des Arbustes,african,Mo-Fr 12:00-16:00,48.8286117,2.3086136
+WePok,Rue des Pyrénées,hawaiian;poke,"Mo-Fr 11:45-15:00,18:45-21:00",48.850092,2.4062231
+Les Amis gourmands,Rue de Mazagran,chinese,We off,48.8709948,2.3522516
+Restaurant Sichuan,Rue Le Peletier,chinese;fish,"Mo-Tu 12:00-14:30,18:30-22:30; Th-Su 12:00-14:30,18:30-22:30",48.872776,2.3384403
+Taem,Rue Popincourt 75011,meat,Mo-Su 12:00-15:00; 19:00-00:00,48.8576082,2.3773686
+Mon Petit des Dames,Rue des Dames 75017,french,Tu-Sa 17:00-02:00,48.882861,2.3178334
+Ikuzo,Rue des Dames 75017,japanese,"Mo-Sa 11:30-15:00, 18:30-23:00; Sa 18:30-23:00",48.8825221,2.3163425
+Med'eat,Rue La Fayette 75009,mediterranean,Mo-Fr 11:45-14:15,48.8748583,2.3395568
+stelle,Rue de Bourgogne 75007,italian,Tu-Sa 14:00-19:00,48.8572636,2.3173284
+Traiteur Xiang Rui,Rue Simart 75018,chinese,Mo-Sa 10:30-20:00,48.890142,2.3487231
+Thu Thu,Rue Hermel 75018,asian;vietnamese,"Mo-Fr 12:00-14:00,19:00-22:00; Sa 19:00-22:00",48.8946432,2.3460939
+Le Bistrot de Longchamp,Rue de Longchamp,portuguese,Mo-Fr 07:00-21:00,48.8651121,2.2892094
+Oranta,Rue de Marivaux 75002,local,"Tu-Fr 14:30-13:00,14:00-19:00; Su,Sa 16:00-13:00,14:00-18:00",48.8705285,2.3372137
+Le Chien de la Lune,Rue de Jessaint 75018,french;vegetarian,Mo-Th 12:00-15:00; Fr-Sa 19:00-23:00,48.8850908,2.355287
+Mikuna,Rue Saint-Martin 75003,peruvian,"Mo-Sa 11:45-14:30, 18:30-23:00; Su 10:00-14:30",48.8684578,2.355482
+Cosy 55,Boulevard des Batignolles,african,Mo-Su 18:30-23:00,48.8814203,2.3182111
+Fondue Dragon,Rue Étienne Marcel 75001,chinese,"Mo-Su 12:30-14:00,18:30-22:30",48.8634771,2.350182
+Le Pure Café,Rue Jean Macé,french,Mo-Fr 07:00-01:00; Sa 08:00-01:00; Su 09:00-17:00,48.8532884,2.3834234
+Vegan Sushi House,Rue Sainte-Foy 75002,sushi,"Mo-Th 11:30-15:00, 18:30-22:30; Fr 11:30-15:00, 18:30-23:30; Sa-Su 12:00-23:30",48.8687919,2.3517209
+Le Paradis du rouleau de printemps,Rue Sainte-Foy 75002,chinese,"Mo-Th 11:30-15:00, 18:30-22:30; Fr 11:30-15:00, 18:30-23:30; Sa-Su 12:00-23:30",48.8688117,2.3517698
+Tacos Queretaro,South Main Street 75460,mexican,"Tu-Th 10:00-20:00, Fr 10:00-21:00, Sa 08:00-21:00",33.6596569,-95.5565461
+Le Mesturet,Rue de Richelieu 75002,french,Mo-Su 12:00-23:00,48.8689869,2.3384229
+New Hanoï,Rue Sedaine 75011,vietnamese,"Mo-Sa 11:30-15:30, 17:30-22:30; Su 17:30-22:30",48.8560604,2.3711372
+Piadineria,Rue Saint-Sabin 75011,italian,"Mo-Fr 11:30-15:00, 18:30-22:30; Sa 12:00-15:00, 19:00-23:00",48.8553677,2.3718537
+Popu,Rue du Champ de Mars 75007,pizza;regional,Mo-Su 09:30-23:00,48.8565111,2.30571
+Canal Poke,Rue de la Michodière 75002,international;japanese,Mo-Fr 12:00-15:00,48.8693226,2.3344935
+NOUR Comptoir,Rue Jean-Pierre Timbaud 75011,oriental,"Su-Th 12:00-15:00,18:00-22:30; Fr 12:00-15:00; Sa 18:00-22:30",48.8661127,2.371661
+omilgout,Rue de Budapest,italian_pizza,"Mo-Fr 11:30-16:30, 18:15-21:30; Sa 11:30-16:00",48.8760406,2.3275843
+La Cantine Champ Libre,Rue Taylor 75010,local,"Mo-Tu 12:00-15:00; We-Fr 12:00-15:00,19:30-23:00; Sa 11:30-15:00,19:30-23:00; Su 11:30-15:00",48.8700204,2.3592127
+Soumsoum,Boulevard Voltaire,lebanese,Mo-Th 11:45-22:45; Fr 11:45-14:30; Su 11:45-22:45,48.8564624,2.38198
+Soumsoum,Rue de Miromesnil,lebanese,Mo-Th 11:45-22:45; Fr 11:45-14:30; Su 11:45-22:45,48.875918,2.3156035
+Tanguy,Rue de l'Échiquier,crepe,Tu-Su 00:00-24:00,48.8711638,2.3518062
+Les mots et le ciel,Rue Olivier de Serres,lebanese,Tu-Fr 12:00-18:00; Sa 12:00-15:00,48.832654,2.2940618

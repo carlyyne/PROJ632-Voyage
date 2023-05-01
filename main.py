@@ -18,15 +18,16 @@ def toutesLesInformations(driver,curs,conn,ville):
         print("\nMerci de patienter le temps de la récupération des données...")
         I.insertionInfosVilleBDD(ville, curs, conn)
         I.insertionMeteoVilleBDD(ville,curs,conn)
-        ScrapT.informationsTweeter(driver,ville,curs,conn)
+        #ScrapT.informationsTweeter(driver,ville,curs,conn)
         I.rechercheMeteoVille(ville)
         HR.afficher_carte(ville, curs,conn)
         print("\nINFORMATIONS RÉCUPÉRÉES ! :)")
 
 def menu():
     print("\nVilles présentes dans la base de données:")
-    if DB.villesBDD(curs):
-        DB.villesBDD(curs)
+    villes = DB.villesBDD(curs)
+    if villes!="":
+        villes
     else:
         print("Aucune ville présente !")
     print("\nQue souhaitez-vous faire ?")
@@ -36,7 +37,7 @@ def menu():
     if choix == "1":
         ville = input("\nEntrez le nom de la ville : ")
         driver = webdriver.Chrome(service=chrome_service, options=options)
-        driver.get("https://twitter.com/login")
+        driver.get("https://twitter.com/i/flow/login")
         toutesLesInformations(driver, curs, conn, ville)
     elif choix == "2":
         ville = input("\nEntrez le nom de la ville : ")

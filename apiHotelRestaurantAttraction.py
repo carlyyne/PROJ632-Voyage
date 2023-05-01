@@ -19,9 +19,9 @@ def afficher_carte(ville, curs, conn):
 
     #recuperation des contenu des fichiers csv
     dossier = f'vacances_a_{ville}'
-    restaurants = lireFichier(dossier, restaurants, ville)
-    hotels = lireFichier(dossier, hotels, ville)
-    attractions = lireFichier(dossier, "attractions_touristiques", ville)
+    restaurants = lireFichier(dossier, "restaurant", ville)
+    hotels = lireFichier(dossier, "hotel", ville)
+    attractions = lireFichier(dossier, "attractions_touristique", ville)
 
     #recuperation des coordonnées de la ville pour le placement de la carte
     curs.execute(f"SELECT Latitude, Longitude FROM Ville WHERE Nom LIKE '{ville}'")
@@ -33,9 +33,7 @@ def afficher_carte(ville, curs, conn):
     carte = folium.Map(location=[lat, lon], zoom_start=12)
 
     # Ajout des marqueurs pour chaque lieu
-    creationPointsInteretsCarte(restaurants,hotels,attractions,carte)
-
-    carte.save(f'{dossier}/carte_{ville}.html')
+    carte = creationPointsInteretsCarte(restaurants,hotels,attractions,carte,dossier,ville)
 
 def lireFichier(dossier, type_lieu, ville):
     """lecture du fichier csv associé au type du point d'intéret et creation d'une liste des lieux
@@ -49,7 +47,7 @@ def lireFichier(dossier, type_lieu, ville):
         list: liste des lieux qui nous interressent (restaurant ou hotel ou attraction)
     """
     lieux = []
-    with open(f'{dossier}/{type_lieu}_{ville}.csv', mode='r') as csv_file:
+    with open(f'{dossier}/{type_lieu}s_{ville}.csv', mode='r') as csv_file:
         reader = csv.DictReader(csv_file)
         for row in reader:
             if row['name']:
@@ -57,7 +55,7 @@ def lireFichier(dossier, type_lieu, ville):
                 lieux.append(row)
     return lieux
 
-def creationPointsInteretsCarte(restaurants,hotels,attractions,carte):
+def creationPointsInteretsCarte(restaurants,hotels,attractions,carte,dossier,ville):
     """creation d'un marker et d'un popup: affciher les points d'interets sur la carte
 
     Args:
@@ -90,7 +88,7 @@ def creationPointsInteretsCarte(restaurants,hotels,attractions,carte):
             marker_color = 'blue'
             marker_icon = 'home'
 
-        elif lieu['type'] == 'attraction':
+        elif lieu['type'] == 'attractions_touristique':
             horairesOuverture = lieu.get('horairesOuverture', '')
             popup = folium.Popup(html = f"<b>{nom}</b><br>Heures d'ouverture: {horairesOuverture}")
             marker_color = 'red'
@@ -100,6 +98,8 @@ def creationPointsInteretsCarte(restaurants,hotels,attractions,carte):
             marker = folium.Marker(location=location, tooltip=tooltip,icon=folium.Icon(color=marker_color, icon=marker_icon, prefix='glyphicon'))
             marker.add_child(popup)
             marker.add_to(carte)
+
+    carte.save(f'{dossier}/carte_{ville}.html')
 
 def rechercheRestaurant(ville, curs, conn):
     """recherche tous les restaurants d'une ville
